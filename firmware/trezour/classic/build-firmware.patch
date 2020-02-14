@@ -4,7 +4,7 @@
  
  docker build -t $IMAGE .
  docker run -t -v $(pwd)/build:/build:z $IMAGE /bin/sh -c "\
-+	git clone https://github.com/monero-project/sekura && \
++	git clone https://github.com/byterubpay/sekura && \
  	git clone https://github.com/trezor/trezor-mcu && \
  	cd trezor-mcu && \
  	git checkout $TAG && \

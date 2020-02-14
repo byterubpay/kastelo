@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-This is a basic firmware project for the Monero HW wallet (JULIAN CANDY EDITION) intended to support firmware development. HW information for the JULIAN CANDY device is in the hardware/monezor folder.
+This is a basic firmware project for the ByteRub HW wallet (JULIAN CANDY EDITION) intended to support firmware development. HW information for the JULIAN CANDY device is in the hardware/monezor folder.
 
 It was established by forking and putting together files from three github repositories:
 
