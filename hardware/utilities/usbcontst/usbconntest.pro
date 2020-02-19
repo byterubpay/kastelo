@@ -3,7 +3,7 @@ version=1
 last_client=kicad
 [pcbnew]
 version=1
-PageLayoutDescrFile=monero-black.kicad_wks
+PageLayoutDescrFile=byterub-black.kicad_wks
 LastNetListRead=
 UseCmpFile=1
 PadDrill=0.600000000000
@@ -33,5 +33,5 @@ LibName1=usbconntest
 version=1
 [schematic_editor]
 version=1
-PageLayoutDescrFile=monero-white.kicad_wks
+PageLayoutDescrFile=byterub-white.kicad_wks
 PlotDirectoryName=schematic

@@ -14,7 +14,7 @@ Comment3 "Pending quality assurance testing"
 Comment4 "Warning, untested prototype!"
 $EndDescr
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5A606F5D
 P 8200 2050
 F 0 "#PWR?" H 8200 1900 50  0001 C CNN
@@ -25,7 +25,7 @@ F 3 "" H 8200 2050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A606FE1
 P 8200 8300
 F 0 "#PWR?" H 8200 8050 50  0001 C CNN
@@ -36,7 +36,7 @@ F 3 "" H 8200 8300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:CONN_01X20 J1
+L byterubhw:CONN_01X20 J1
 U 1 1 5A6B7E05
 P 1750 6550
 F 0 "J1" H 1750 7600 50  0000 C CNN
@@ -47,7 +47,7 @@ F 3 "https://suddendocs.samtec.com/catalog_english/tsw_th.pdf" H 1750 6550 50  0
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:CONN_01X14 J5
+L byterubhw:CONN_01X14 J5
 U 1 1 5A6B7E86
 P 12150 7800
 F 0 "J5" V 12150 8550 50  0000 C CNN
@@ -58,7 +58,7 @@ F 3 "https://suddendocs.samtec.com/catalog_english/tsw_th.pdf" H 12150 7800 50  
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:CONN_01X20 J6
+L byterubhw:CONN_01X20 J6
 U 1 1 5A6B7F29
 P 12250 4550
 F 0 "J6" H 12250 5600 50  0000 C CNN
@@ -69,7 +69,7 @@ F 3 "https://suddendocs.samtec.com/catalog_english/tsw_th.pdf" H 12250 4550 50  
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:CONN_02X05 J8
+L byterubhw:CONN_02X05 J8
 U 1 1 5A6B975F
 P 13350 6950
 F 0 "J8" H 13350 7250 50  0000 C CNN
@@ -80,7 +80,7 @@ F 3 "http://www.tag-connect.com/Materials/TC2050-IDC-NL%20Datasheet.pdf" H 13350
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:CONN_01X07 J3
+L byterubhw:CONN_01X07 J3
 U 1 1 5A6B9841
 P 3550 9950
 F 0 "J3" H 3550 10350 50  0000 C CNN
@@ -103,7 +103,7 @@ FLASH_CS
 Text Label 1950 7400 0    60   ~ 0
 IO_SPARE2
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5A709319
 P 1550 7550
 F 0 "#PWR?" H 1550 7400 50  0001 C CNN
@@ -114,7 +114,7 @@ F 3 "" H 1550 7550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C C1
+L byterubhw:C C1
 U 1 1 5A7093CB
 P 2300 7500
 F 0 "C1" H 2325 7600 50  0000 L CNN
@@ -125,7 +125,7 @@ F 3 "" H 2300 7500 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A70A0B9
 P 2650 7500
 F 0 "#PWR?" H 2650 7250 50  0001 C CNN
@@ -137,7 +137,7 @@ F 3 "" H 2650 7500 50  0001 C CNN
 $EndComp
 NoConn ~ 1950 7200
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5A7116FA
 P 12200 7200
 F 0 "#PWR?" H 12200 7050 50  0001 C CNN
@@ -150,7 +150,7 @@ $EndComp
 Text Label 11800 7500 2    60   ~ 0
 BLOAD
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A7148E9
 P 11900 7300
 F 0 "#PWR?" H 11900 7050 50  0001 C CNN
@@ -171,7 +171,7 @@ JTAG_TDI
 Text Label 12700 7600 1    60   ~ 0
 JTAG_TRST
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A718EAF
 P 12900 7500
 F 0 "#PWR?" H 12900 7250 50  0001 C CNN
@@ -185,7 +185,7 @@ NoConn ~ 12050 5000
 NoConn ~ 12050 4800
 NoConn ~ 12050 4700
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5A734368
 P 13600 6750
 F 0 "#PWR?" H 13600 6600 50  0001 C CNN
@@ -196,7 +196,7 @@ F 3 "" H 13600 6750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A7343C2
 P 13700 7250
 F 0 "#PWR?" H 13700 7000 50  0001 C CNN
@@ -209,7 +209,7 @@ $EndComp
 Text Label 13100 7150 2    60   ~ 0
 RESET
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A7396A2
 P 2850 10250
 F 0 "#PWR?" H 2850 10000 50  0001 C CNN
@@ -220,7 +220,7 @@ F 3 "" H 2850 10250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5A7396FC
 P 2850 9600
 F 0 "#PWR?" H 2850 9450 50  0001 C CNN
@@ -231,7 +231,7 @@ F 3 "" H 2850 9600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:Jumper JP1
+L byterubhw:Jumper JP1
 U 1 1 5A73D93D
 P 3200 2800
 F 0 "JP1" H 3200 2950 50  0000 C CNN
@@ -242,7 +242,7 @@ F 3 "https://suddendocs.samtec.com/catalog_english/tsw_th.pdf" H 3200 2800 50  0
 	0    1    -1   0   
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A73D9D4
 P 3350 2500
 F 0 "#PWR?" H 3350 2250 50  0001 C CNN
@@ -253,7 +253,7 @@ F 3 "" H 3350 2500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:SW_SPST SW1
+L byterubhw:SW_SPST SW1
 U 1 1 5A73E8D4
 P 4600 4850
 F 0 "SW1" H 4400 4900 50  0000 C CNN
@@ -264,7 +264,7 @@ F 3 "https://datasheet.lcsc.com/szlcsc/Korean-Hroparts-Elec-K2-1102SP-C4SC-04_C1
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:SW_SPST SW2
+L byterubhw:SW_SPST SW2
 U 1 1 5A73E973
 P 4600 5150
 F 0 "SW2" H 4400 5200 50  0000 C CNN
@@ -275,7 +275,7 @@ F 3 "https://datasheet.lcsc.com/szlcsc/Korean-Hroparts-Elec-K2-1102SP-C4SC-04_C1
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+5V #PWR?
+L byterubhw:+5V #PWR?
 U 1 1 5A749F11
 P 3350 5600
 F 0 "#PWR?" H 3350 5450 50  0001 C CNN
@@ -286,7 +286,7 @@ F 3 "" H 3350 5600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A749F77
 P 3350 5800
 F 0 "#PWR?" H 3350 5550 50  0001 C CNN
@@ -297,7 +297,7 @@ F 3 "" H 3350 5800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R2
+L byterubhw:R R2
 U 1 1 5A749FDD
 P 3200 5600
 F 0 "R2" V 3280 5600 50  0000 C CNN
@@ -308,7 +308,7 @@ F 3 "" H 3200 5600 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L monerohw:R R3
+L byterubhw:R R3
 U 1 1 5A74A078
 P 3200 5800
 F 0 "R3" V 3280 5800 50  0000 C CNN
@@ -319,7 +319,7 @@ F 3 "" H 3200 5800 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:USB_C_Rcpt_Min J4
+L byterubhw:USB_C_Rcpt_Min J4
 U 1 1 5A7A8688
 P 10200 1400
 F 0 "J4" V 9649 2798 50  0000 R CNN
@@ -330,7 +330,7 @@ F 3 "https://www.amphenolcanada.com/ProductSearch/pdf/124015_BRO.pdf" H 10350 14
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A7AACC7
 P 8300 1300
 F 0 "#PWR?" H 8300 1050 50  0001 C CNN
@@ -341,7 +341,7 @@ F 3 "" H 8300 1300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+5V #PWR?
+L byterubhw:+5V #PWR?
 U 1 1 5A7B0DC0
 P 11700 2100
 F 0 "#PWR?" H 11700 1950 50  0001 C CNN
@@ -352,7 +352,7 @@ F 3 "" H 11700 2100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R15
+L byterubhw:R R15
 U 1 1 5A7B318F
 P 10250 2500
 F 0 "R15" V 10170 2500 50  0000 C CNN
@@ -363,7 +363,7 @@ F 3 "" H 10250 2500 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5A7B3238
 P 10000 2500
 F 0 "#PWR?" H 10000 2350 50  0001 C CNN
@@ -374,7 +374,7 @@ F 3 "" H 10000 2500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A7C6369
 P 4800 4150
 F 0 "#PWR?" H 4800 3900 50  0001 C CNN
@@ -385,7 +385,7 @@ F 3 "" H 4800 4150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C6
+L byterubhw:C_Small C6
 U 1 1 5A7C6465
 P 4800 3550
 F 0 "C6" H 4898 3550 50  0000 L CNN
@@ -396,7 +396,7 @@ F 3 "" H 4800 3550 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C7
+L byterubhw:C_Small C7
 U 1 1 5A7C652C
 P 4800 4050
 F 0 "C7" H 4898 4089 50  0000 L CNN
@@ -407,7 +407,7 @@ F 3 "" H 4800 4050 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:ER-CON30 DS1
+L byterubhw:ER-CON30 DS1
 U 1 1 5A7DCD72
 P 5850 9350
 F 0 "DS1" H 4350 10250 50  0000 L CNN
@@ -418,7 +418,7 @@ F 3 "https://www.buydisplay.com/download/connector/ER-CON30HT-1.pdf" H 5650 9050
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A7DCF6E
 P 7400 10900
 F 0 "#PWR?" H 7400 10650 50  0001 C CNN
@@ -429,7 +429,7 @@ F 3 "" H 7400 10900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R12
+L byterubhw:R R12
 U 1 1 5A7DE0C7
 P 7050 10800
 F 0 "R12" V 7130 10800 50  0000 C CNN
@@ -440,7 +440,7 @@ F 3 "" H 7050 10800 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:C C13
+L byterubhw:C C13
 U 1 1 5A7DE162
 P 7150 10600
 F 0 "C13" H 7175 10700 50  0000 L CNN
@@ -480,7 +480,7 @@ NoConn ~ 6300 10250
 NoConn ~ 6000 10250
 NoConn ~ 5900 10250
 $Comp
-L monerohw:C_Small C4
+L byterubhw:C_Small C4
 U 1 1 5A7F2F66
 P 4500 10600
 F 0 "C4" H 4357 10670 50  0000 L CNN
@@ -491,7 +491,7 @@ F 3 "" H 4500 10600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C5
+L byterubhw:C_Small C5
 U 1 1 5A7F3398
 P 4700 10850
 F 0 "C5" H 4557 10920 50  0000 L CNN
@@ -502,7 +502,7 @@ F 3 "" H 4700 10850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C8
+L byterubhw:C_Small C8
 U 1 1 5A7F4389
 P 4900 10750
 F 0 "C8" H 4910 10820 50  0000 L CNN
@@ -513,7 +513,7 @@ F 3 "" H 4900 10750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C9
+L byterubhw:C_Small C9
 U 1 1 5A7F4436
 P 5200 10750
 F 0 "C9" H 5210 10820 50  0000 L CNN
@@ -524,7 +524,7 @@ F 3 "" H 5200 10750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5A7F44F7
 P 5050 10600
 F 0 "#PWR?" H 5050 10450 50  0001 C CNN
@@ -535,7 +535,7 @@ F 3 "" H 5050 10600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A7F4587
 P 5050 10950
 F 0 "#PWR?" H 5050 10700 50  0001 C CNN
@@ -546,7 +546,7 @@ F 3 "" H 5050 10950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:ByteRublogo-mid LOGO1
+L byterubhw:ByteRublogo-mid LOGO1
 U 1 1 5A7B31DF
 P 1500 3050
 F 0 "LOGO1" H 700 3750 50  0000 C CNN
@@ -557,7 +557,7 @@ F 3 "Graphic-M" H 1500 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP5
+L byterubhw:TEST TP5
 U 1 1 5A7BE6A9
 P 11900 1000
 F 0 "TP5" H 11900 1300 50  0000 C BNN
@@ -568,7 +568,7 @@ F 3 "" H 11900 1000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP3
+L byterubhw:TEST TP3
 U 1 1 5A7C58BD
 P 11100 2800
 F 0 "TP3" H 11100 3100 50  0000 C BNN
@@ -579,7 +579,7 @@ F 3 "" H 11100 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP4
+L byterubhw:TEST TP4
 U 1 1 5A7C5AD8
 P 11500 2800
 F 0 "TP4" H 11500 3100 50  0000 C BNN
@@ -590,7 +590,7 @@ F 3 "" H 11500 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:DUMMY_MOUNTING-HOLE_RevE_Date22jun2010 MH1
+L byterubhw:DUMMY_MOUNTING-HOLE_RevE_Date22jun2010 MH1
 U 1 1 5A7E405D
 P 5700 800
 F 0 "MH1" H 5700 1000 50  0000 C CNN
@@ -601,7 +601,7 @@ F 3 "" H 5700 800 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:DUMMY_MOUNTING-HOLE_RevE_Date22jun2010 MH2
+L byterubhw:DUMMY_MOUNTING-HOLE_RevE_Date22jun2010 MH2
 U 1 1 5A7E413E
 P 5700 1300
 F 0 "MH2" H 5700 1500 50  0000 C CNN
@@ -612,7 +612,7 @@ F 3 "" H 5700 1300 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:DUMMY_MOUNTING-HOLE_RevE_Date22jun2010 MH3
+L byterubhw:DUMMY_MOUNTING-HOLE_RevE_Date22jun2010 MH3
 U 1 1 5A7E4211
 P 5700 1800
 F 0 "MH3" H 5700 2000 50  0000 C CNN
@@ -623,7 +623,7 @@ F 3 "" H 5700 1800 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011 FID1
+L byterubhw:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011 FID1
 U 1 1 5A7E42F6
 P 6400 1050
 F 0 "FID1" H 6400 1200 50  0000 C CNN
@@ -634,7 +634,7 @@ F 3 "" H 6400 1050 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011 FID3
+L byterubhw:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011 FID3
 U 1 1 5A7E43BB
 P 7100 1050
 F 0 "FID3" H 7100 1200 50  0000 C CNN
@@ -645,7 +645,7 @@ F 3 "" H 7100 1050 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011 FID5
+L byterubhw:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011 FID5
 U 1 1 5A7E44A8
 P 7800 1050
 F 0 "FID5" H 7800 1200 50  0000 C CNN
@@ -656,7 +656,7 @@ F 3 "" H 7800 1050 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011 FID2
+L byterubhw:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011 FID2
 U 1 1 5A7E458D
 P 6400 1550
 F 0 "FID2" H 6400 1700 50  0000 C CNN
@@ -669,7 +669,7 @@ $EndComp
 Text Notes 11500 8400 0    60   ~ 0
 Empty area\nfor USB-C\nconnector,\nat pin 15
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A7CAF1C
 P 5450 700
 F 0 "#PWR?" H 5450 450 50  0001 C CNN
@@ -680,7 +680,7 @@ F 3 "" H 5450 700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A7CB1E6
 P 5450 1200
 F 0 "#PWR?" H 5450 950 50  0001 C CNN
@@ -691,7 +691,7 @@ F 3 "" H 5450 1200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A7CB296
 P 5450 1700
 F 0 "#PWR?" H 5450 1450 50  0001 C CNN
@@ -702,7 +702,7 @@ F 3 "" H 5450 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP2
+L byterubhw:TEST TP2
 U 1 1 5A81246C
 P 5000 3950
 F 0 "TP2" H 4900 4000 50  0000 C BNN
@@ -713,7 +713,7 @@ F 3 "" H 5000 3950 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L monerohw:TEST TP1
+L byterubhw:TEST TP1
 U 1 1 5A812661
 P 5000 3650
 F 0 "TP1" H 5000 3950 50  0000 C BNN
@@ -726,7 +726,7 @@ $EndComp
 Text Notes 1300 8100 0    49   ~ 0
 Drive 17(PDIC) high to enable flash\nSPI programming and SPI sniffing.
 $Comp
-L monerohw:Battery_Cell BT1
+L byterubhw:Battery_Cell BT1
 U 1 1 5AA363F4
 P 7000 2450
 F 0 "BT1" H 6900 2600 50  0000 C CNN
@@ -737,7 +737,7 @@ F 3 "https://www.keyelco.com/product.cfm/product_id/777/" V 7000 2510 50  0001 C
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:Micro_SD_Card_Det J13
+L byterubhw:Micro_SD_Card_Det J13
 U 1 1 5AA3582A
 P 15050 8900
 F 0 "J13" H 14400 9600 50  0000 C CNN
@@ -754,7 +754,7 @@ NoConn ~ 14150 8500
 Text Notes 14450 9800 0    60   ~ 0
 Doesn't fit in the limited\nboard real estate so DNP.
 $Comp
-L monerohw:R R16
+L byterubhw:R R16
 U 1 1 5AB015F9
 P 11050 2300
 F 0 "R16" V 11050 2050 50  0000 C CNN
@@ -765,7 +765,7 @@ F 3 "" H 11050 2300 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:R R17
+L byterubhw:R R17
 U 1 1 5AB0172A
 P 11250 2200
 F 0 "R17" V 11150 2150 50  0000 C CNN
@@ -776,7 +776,7 @@ F 3 "" H 11250 2200 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5AB01839
 P 11700 2700
 F 0 "#PWR?" H 11700 2450 50  0001 C CNN
@@ -787,7 +787,7 @@ F 3 "" H 11700 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011 FID4
+L byterubhw:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011 FID4
 U 1 1 5BD1F324
 P 7100 1550
 F 0 "FID4" H 7100 1700 50  0000 C CNN
@@ -798,7 +798,7 @@ F 3 "" H 7100 1550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011 FID6
+L byterubhw:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011 FID6
 U 1 1 5BD1F32A
 P 7800 1550
 F 0 "FID6" H 7800 1700 50  0000 C CNN
@@ -809,7 +809,7 @@ F 3 "" H 7800 1550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:CEC1702 U3
+L byterubhw:CEC1702 U3
 U 1 1 5BD242A8
 P 8200 5600
 F 0 "U3" H 10500 7950 50  0000 L BNN
@@ -820,7 +820,7 @@ F 3 "https://www.microchip.com/downloads/en/DeviceDoc/00002207C.pdf" H 8200 5600
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD3B832
 P 13000 1400
 F 0 "#PWR?" H 13000 1150 50  0001 C CNN
@@ -831,7 +831,7 @@ F 3 "" H 13000 1400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C23
+L byterubhw:C_Small C23
 U 1 1 5BD3B8C8
 P 12900 1200
 F 0 "C23" H 12800 1100 50  0000 L CNN
@@ -842,7 +842,7 @@ F 3 "" H 12900 1200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C26
+L byterubhw:C_Small C26
 U 1 1 5BD3B9EF
 P 13100 1200
 F 0 "C26" H 13100 1100 50  0000 L CNN
@@ -853,7 +853,7 @@ F 3 "" H 13100 1200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD3BBB8
 P 13400 3600
 F 0 "#PWR?" H 13400 3350 50  0001 C CNN
@@ -864,7 +864,7 @@ F 3 "" H 13400 3600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C21
+L byterubhw:C_Small C21
 U 1 1 5BD43749
 P 11800 2400
 F 0 "C21" H 11810 2470 50  0000 L CNN
@@ -875,7 +875,7 @@ F 3 "" H 11800 2400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C22
+L byterubhw:C_Small C22
 U 1 1 5BD437E6
 P 12000 2400
 F 0 "C22" H 12010 2470 50  0000 L CNN
@@ -886,7 +886,7 @@ F 3 "" H 12000 2400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R18
+L byterubhw:R R18
 U 1 1 5BD496EB
 P 11900 1250
 F 0 "R18" V 11980 1250 50  0000 C CNN
@@ -897,7 +897,7 @@ F 3 "" H 11900 1250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R19
+L byterubhw:R R19
 U 1 1 5BD49A6B
 P 11900 1650
 F 0 "R19" V 11980 1650 50  0000 C CNN
@@ -908,7 +908,7 @@ F 3 "" H 11900 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD49B38
 P 11900 1800
 F 0 "#PWR?" H 11900 1550 50  0001 C CNN
@@ -929,7 +929,7 @@ NoConn ~ 12700 3300
 NoConn ~ 14100 3200
 NoConn ~ 14100 3100
 $Comp
-L monerohw:SP0503BAHTG D2
+L byterubhw:SP0503BAHTG D2
 U 1 1 5BD38CDB
 P 10100 2900
 F 0 "D2" V 9750 2650 50  0000 L CNN
@@ -940,7 +940,7 @@ F 3 "" H 10225 3025 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD38DAA
 P 9900 2900
 F 0 "#PWR?" H 9900 2650 50  0001 C CNN
@@ -951,7 +951,7 @@ F 3 "" H 9900 2900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+5V #PWR?
+L byterubhw:+5V #PWR?
 U 1 1 5BD3A932
 P 9700 2800
 F 0 "#PWR?" H 9700 2650 50  0001 C CNN
@@ -962,7 +962,7 @@ F 3 "" H 9700 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP6
+L byterubhw:TEST TP6
 U 1 1 5BD3934F
 P 14500 3300
 F 0 "TP6" H 14500 3600 50  0000 C BNN
@@ -973,7 +973,7 @@ F 3 "" H 14500 3300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R25
+L byterubhw:R R25
 U 1 1 5BD3A3DE
 P 14250 3000
 F 0 "R25" V 14330 3000 50  0000 C CNN
@@ -984,7 +984,7 @@ F 3 "" H 14250 3000 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:LED D3
+L byterubhw:LED D3
 U 1 1 5BD3AE7C
 P 12100 950
 F 0 "D3" H 12100 1050 50  0000 C CNN
@@ -995,7 +995,7 @@ F 3 "" H 12100 950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L monerohw:LED D4
+L byterubhw:LED D4
 U 1 1 5BD3AF53
 P 12400 1350
 F 0 "D4" H 12400 1450 50  0000 C CNN
@@ -1006,7 +1006,7 @@ F 3 "" H 12400 1350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L monerohw:R R20
+L byterubhw:R R20
 U 1 1 5BD3D334
 P 12650 700
 F 0 "R20" V 12730 700 50  0000 C CNN
@@ -1017,7 +1017,7 @@ F 3 "" H 12650 700 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:R R21
+L byterubhw:R R21
 U 1 1 5BD3D407
 P 12650 950
 F 0 "R21" V 12730 950 50  0000 C CNN
@@ -1052,7 +1052,7 @@ VDD outputs 100 mA so\nlet's cross our fingers!
 Text Notes 10750 3450 0    60   ~ 0
 Remember to\nreverse these!
 $Comp
-L monerohw:GS2 J10
+L byterubhw:GS2 J10
 U 1 1 5BD4F34D
 P 13600 1300
 F 0 "J10" H 13700 1450 50  0000 C CNN
@@ -1063,7 +1063,7 @@ F 3 "" H 13600 1300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5BD4F446
 P 13600 1100
 F 0 "#PWR?" H 13600 950 50  0001 C CNN
@@ -1074,7 +1074,7 @@ F 3 "" H 13600 1100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:LN6206P33M_SOT23 U6
+L byterubhw:LN6206P33M_SOT23 U6
 U 1 1 5BD4F5A5
 P 15100 3800
 F 0 "U6" H 15100 4050 50  0000 C CNN
@@ -1085,7 +1085,7 @@ F 3 "http://www.natlinear.com/uploadfiles/2014/LN/LN6206_E.pdf" H 15100 3750 50 
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+5V #PWR?
+L byterubhw:+5V #PWR?
 U 1 1 5BD4FB17
 P 14700 3800
 F 0 "#PWR?" H 14700 3650 50  0001 C CNN
@@ -1096,7 +1096,7 @@ F 3 "" H 14700 3800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5BD4FBC7
 P 15500 3400
 F 0 "#PWR?" H 15500 3250 50  0001 C CNN
@@ -1107,7 +1107,7 @@ F 3 "" H 15500 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C28
+L byterubhw:C_Small C28
 U 1 1 5BD4FC77
 P 14800 3900
 F 0 "C28" H 14600 3900 50  0000 L CNN
@@ -1118,7 +1118,7 @@ F 3 "" H 14800 3900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C30
+L byterubhw:C_Small C30
 U 1 1 5BD4FD54
 P 15400 3900
 F 0 "C30" H 15500 3900 50  0000 L CNN
@@ -1129,7 +1129,7 @@ F 3 "" H 15400 3900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD4FE2D
 P 15100 4100
 F 0 "#PWR?" H 15100 3850 50  0001 C CNN
@@ -1140,7 +1140,7 @@ F 3 "" H 15100 4100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GS2 J15
+L byterubhw:GS2 J15
 U 1 1 5BD52F80
 P 15500 3600
 F 0 "J15" H 15600 3750 50  0000 C CNN
@@ -1153,7 +1153,7 @@ $EndComp
 Text Label 7800 3000 2    60   ~ 0
 VIN_OTP
 $Comp
-L monerohw:MIC5377YC5 U5
+L byterubhw:MIC5377YC5 U5
 U 1 1 5BD4F346
 P 13600 4600
 F 0 "U5" H 13300 4850 50  0000 L CNN
@@ -1164,7 +1164,7 @@ F 3 "https://www.microchip.com/downloads/en/DeviceDoc/MIC5376-7-8-High-Performan
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:LN6206P15M_SOT23 U7
+L byterubhw:LN6206P15M_SOT23 U7
 U 1 1 5BD4F524
 P 15200 4900
 F 0 "U7" H 15200 5150 50  0000 C CNN
@@ -1177,7 +1177,7 @@ $EndComp
 Text Notes 13850 1450 1    60   ~ 0
 Mod SJ to 0R
 $Comp
-L monerohw:GS2 J14
+L byterubhw:GS2 J14
 U 1 1 5BD51748
 P 15200 4500
 F 0 "J14" H 15300 4650 50  0000 C CNN
@@ -1188,7 +1188,7 @@ F 3 "" H 15200 4500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L monerohw:C_Small C29
+L byterubhw:C_Small C29
 U 1 1 5BD51C69
 P 14900 5000
 F 0 "C29" H 14700 5000 50  0000 L CNN
@@ -1199,7 +1199,7 @@ F 3 "" H 14900 5000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C31
+L byterubhw:C_Small C31
 U 1 1 5BD51DB5
 P 15500 5000
 F 0 "C31" H 15600 5000 50  0000 L CNN
@@ -1210,7 +1210,7 @@ F 3 "" H 15500 5000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD52406
 P 15200 5200
 F 0 "#PWR?" H 15200 4950 50  0001 C CNN
@@ -1221,7 +1221,7 @@ F 3 "" H 15200 5200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+5V #PWR?
+L byterubhw:+5V #PWR?
 U 1 1 5BD52E72
 P 14800 4900
 F 0 "#PWR?" H 14800 4750 50  0001 C CNN
@@ -1234,7 +1234,7 @@ $EndComp
 Text Label 15000 4500 2    60   ~ 0
 VIN_OTP
 $Comp
-L monerohw:R R22
+L byterubhw:R R22
 U 1 1 5BD59F8A
 P 13150 4100
 F 0 "R22" V 13230 4100 50  0000 C CNN
@@ -1245,7 +1245,7 @@ F 3 "" H 13150 4100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+5V #PWR?
+L byterubhw:+5V #PWR?
 U 1 1 5BD5A075
 P 13150 3850
 F 0 "#PWR?" H 13150 3700 50  0001 C CNN
@@ -1256,7 +1256,7 @@ F 3 "" H 13150 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C24
+L byterubhw:C_Small C24
 U 1 1 5BD4FBF0
 P 12900 4700
 F 0 "C24" H 12910 4770 50  0000 L CNN
@@ -1267,7 +1267,7 @@ F 3 "" H 12900 4700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C27
+L byterubhw:C_Small C27
 U 1 1 5BD4FCE1
 P 14300 4600
 F 0 "C27" H 14310 4670 50  0000 L CNN
@@ -1278,7 +1278,7 @@ F 3 "" H 14300 4600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD500F0
 P 13600 5200
 F 0 "#PWR?" H 13600 4950 50  0001 C CNN
@@ -1289,7 +1289,7 @@ F 3 "" H 13600 5200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R23
+L byterubhw:R R23
 U 1 1 5BD5BC4C
 P 14150 4300
 F 0 "R23" V 14230 4300 50  0000 C CNN
@@ -1300,7 +1300,7 @@ F 3 "" H 14150 4300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R24
+L byterubhw:R R24
 U 1 1 5BD5BD43
 P 14150 4750
 F 0 "R24" V 14230 4750 50  0000 C CNN
@@ -1311,7 +1311,7 @@ F 3 "" H 14150 4750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+1V5 #PWR?
+L byterubhw:+1V5 #PWR?
 U 1 1 5BD61B59
 P 14150 3950
 F 0 "#PWR?" H 14150 3800 50  0001 C CNN
@@ -1322,7 +1322,7 @@ F 3 "" H 14150 3950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+1V5 #PWR?
+L byterubhw:+1V5 #PWR?
 U 1 1 5BD63041
 P 15500 4500
 F 0 "#PWR?" H 15500 4350 50  0001 C CNN
@@ -1333,7 +1333,7 @@ F 3 "" H 15500 4500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GS2 J11
+L byterubhw:GS2 J11
 U 1 1 5BD63527
 P 13750 4000
 F 0 "J11" H 13850 4150 50  0000 C CNN
@@ -1346,7 +1346,7 @@ $EndComp
 Text Label 13550 4000 2    60   ~ 0
 VIN_OTP
 $Comp
-L monerohw:GS2 J9
+L byterubhw:GS2 J9
 U 1 1 5BD6664A
 P 13400 5000
 F 0 "J9" H 13500 5150 50  0000 C CNN
@@ -1363,7 +1363,7 @@ VIN_OTP refers to the voltage source to\nVREF_ADC, used when setting the EFUSE\n
 Text Notes 13650 4950 0    60   ~ 0
 Should R\nbe 120K?
 $Comp
-L monerohw:BAT54C D1
+L byterubhw:BAT54C D1
 U 1 1 5BD60EB4
 P 7300 2250
 F 0 "D1" H 7200 2100 50  0000 L CNN
@@ -1374,7 +1374,7 @@ F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 7180 2500 50  0001 
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:SST26VF064B-MF-WDFN U2
+L byterubhw:SST26VF064B-MF-WDFN U2
 U 1 1 5BD611E9
 P 3850 7350
 F 0 "U2" H 4250 7900 50  0000 L BNN
@@ -1385,7 +1385,7 @@ F 3 "https://www.microchip.com/downloads/en/DeviceDoc/00002207C.pdf" H 3850 8200
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:CONN_02X05 J12
+L byterubhw:CONN_02X05 J12
 U 1 1 5BD63AE3
 P 14650 7000
 F 0 "J12" H 14650 7300 50  0000 C CNN
@@ -1408,7 +1408,7 @@ RESET
 Text Label 14900 7100 0    60   ~ 0
 JTAG_TRST
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5BD6458E
 P 14900 6700
 F 0 "#PWR?" H 14900 6550 50  0001 C CNN
@@ -1419,7 +1419,7 @@ F 3 "" H 14900 6700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD64662
 P 15200 6800
 F 0 "#PWR?" H 15200 6550 50  0001 C CNN
@@ -1430,7 +1430,7 @@ F 3 "" H 15200 6800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD64805
 P 15200 7400
 F 0 "#PWR?" H 15200 7150 50  0001 C CNN
@@ -1441,7 +1441,7 @@ F 3 "" H 15200 7400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:CONN_02X04 J2
+L byterubhw:CONN_02X04 J2
 U 1 1 5BD62650
 P 3350 8600
 F 0 "J2" H 3350 8850 50  0000 C CNN
@@ -1452,7 +1452,7 @@ F 3 "https://suddendocs.samtec.com/catalog_english/tsw_th.pdf" H 3350 7400 50  0
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD71B58
 P 3850 8000
 F 0 "#PWR?" H 3850 7750 50  0001 C CNN
@@ -1463,7 +1463,7 @@ F 3 "" H 3850 8000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5BD735BB
 P 3850 6700
 F 0 "#PWR?" H 3850 6550 50  0001 C CNN
@@ -1474,7 +1474,7 @@ F 3 "" H 3850 6700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5BD73691
 P 5200 8050
 F 0 "#PWR?" H 5200 7900 50  0001 C CNN
@@ -1485,7 +1485,7 @@ F 3 "" H 5200 8050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R8
+L byterubhw:R R8
 U 1 1 5BD737C8
 P 4600 7800
 F 0 "R8" V 4680 7800 50  0000 C CNN
@@ -1496,7 +1496,7 @@ F 3 "" H 4600 7800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R9
+L byterubhw:R R9
 U 1 1 5BD73E25
 P 4800 7800
 F 0 "R9" V 4880 7800 50  0000 C CNN
@@ -1507,7 +1507,7 @@ F 3 "" H 4800 7800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R11
+L byterubhw:R R11
 U 1 1 5BD74030
 P 5000 7800
 F 0 "R11" V 5080 7800 50  0000 C CNN
@@ -1532,7 +1532,7 @@ FLASH_SIO3
 Text Notes 3750 6650 2    60   ~ 0
 Do we need\ndecoupling?
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5BD7CCCB
 P 3100 8450
 F 0 "#PWR?" H 3100 8300 50  0001 C CNN
@@ -1543,7 +1543,7 @@ F 3 "" H 3100 8450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD7CDA7
 P 3700 8250
 F 0 "#PWR?" H 3700 8000 50  0001 C CNN
@@ -1588,7 +1588,7 @@ JTAG_TMS
 Text Label 10800 6350 0    60   ~ 0
 JTAG_TRST
 $Comp
-L monerohw:C C12
+L byterubhw:C C12
 U 1 1 5BD867EF
 P 7150 3200
 F 0 "C12" H 7175 3300 50  0000 L CNN
@@ -1599,7 +1599,7 @@ F 3 "" H 7150 3200 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD8717F
 P 6900 3200
 F 0 "#PWR?" H 6900 2950 50  0001 C CNN
@@ -1614,7 +1614,7 @@ Github:Wireb/badge_bus/
 Text Notes 10800 9600 0    60   ~ 0
 Shitty Addon (SAO)
 $Comp
-L monerohw:CONN_01X04 J7
+L byterubhw:CONN_01X04 J7
 U 1 1 5BD88226
 P 12950 8800
 F 0 "J7" H 12950 9050 50  0000 C CNN
@@ -1625,7 +1625,7 @@ F 3 "" H 12950 8800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD88657
 P 12150 8850
 F 0 "#PWR?" H 12150 8600 50  0001 C CNN
@@ -1644,7 +1644,7 @@ BBUS_TX
 Text Label 10800 6950 0    60   ~ 0
 BBUS_RX
 $Comp
-L monerohw:Badgelife_shitty_conn X1
+L byterubhw:Badgelife_shitty_conn X1
 U 1 1 5BD88661
 P 12300 9550
 F 0 "X1" H 12400 9350 60  0000 C CNN
@@ -1655,7 +1655,7 @@ F 3 "" H 12300 9550 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5BD88B71
 P 11950 9450
 F 0 "#PWR?" H 11950 9300 50  0001 C CNN
@@ -1666,7 +1666,7 @@ F 3 "" H 11950 9450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD88C51
 P 11950 9650
 F 0 "#PWR?" H 11950 9400 50  0001 C CNN
@@ -1691,7 +1691,7 @@ SAO_SCL
 Text Label 3800 5550 0    60   ~ 0
 BOOT
 $Comp
-L monerohw:Jumper JP2
+L byterubhw:Jumper JP2
 U 1 1 5BD9F84B
 P 3800 5250
 F 0 "JP2" H 3800 5400 50  0000 C CNN
@@ -1702,7 +1702,7 @@ F 3 "https://suddendocs.samtec.com/catalog_english/tsw_th.pdf" H 3800 5250 50  0
 	0    1    -1   0   
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD9F851
 P 3950 4950
 F 0 "#PWR?" H 3950 4700 50  0001 C CNN
@@ -1713,7 +1713,7 @@ F 3 "" H 3950 4950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R13
+L byterubhw:R R13
 U 1 1 5BD93921
 P 8300 2200
 F 0 "R13" V 8380 2200 50  0000 C CNN
@@ -1724,7 +1724,7 @@ F 3 "" H 8300 2200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C15
+L byterubhw:C_Small C15
 U 1 1 5BD89E51
 P 7900 2550
 F 0 "C15" H 7910 2620 50  0000 L CNN
@@ -1735,7 +1735,7 @@ F 3 "" H 7900 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C14
+L byterubhw:C_Small C14
 U 1 1 5BD8A09F
 P 7700 2500
 F 0 "C14" H 7710 2570 50  0000 L CNN
@@ -1748,7 +1748,7 @@ $EndComp
 Text Notes 4300 4150 1    60   ~ 0
 Y:9pF and C:10pf\nin specification!
 $Comp
-L monerohw:Crystal Y1
+L byterubhw:Crystal Y1
 U 1 1 5BD8B9A9
 P 4800 3800
 F 0 "Y1" H 4800 3950 50  0000 C CNN
@@ -1759,7 +1759,7 @@ F 3 "" H 4800 3800 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD8D87E
 P 4300 5150
 F 0 "#PWR?" H 4300 4900 50  0001 C CNN
@@ -1770,7 +1770,7 @@ F 3 "" H 4300 5150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:SW_SPST SW3
+L byterubhw:SW_SPST SW3
 U 1 1 5BD8E4BA
 P 11100 7250
 F 0 "SW3" H 11100 7457 50  0000 C CNN
@@ -1797,7 +1797,7 @@ SDCARD_SCK
 Text Label 14150 9100 2    60   ~ 0
 SDCARD_MISO
 $Comp
-L monerohw:C C25
+L byterubhw:C C25
 U 1 1 5BD9EF9F
 P 13000 5250
 F 0 "C25" H 13025 5350 50  0000 L CNN
@@ -1808,7 +1808,7 @@ F 3 "" H 13000 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BD9F25E
 P 13000 5400
 F 0 "#PWR?" H 13000 5150 50  0001 C CNN
@@ -1825,7 +1825,7 @@ RESET
 Text Label 5600 5550 2    60   ~ 0
 BOOT
 $Comp
-L monerohw:R R7
+L byterubhw:R R7
 U 1 1 5BDA7394
 P 3700 3100
 F 0 "R7" V 3780 3100 50  0000 C CNN
@@ -1836,7 +1836,7 @@ F 3 "" H 3700 3100 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:R R4
+L byterubhw:R R4
 U 1 1 5BDA7791
 P 3550 2850
 F 0 "R4" V 3630 2850 50  0000 C CNN
@@ -1847,7 +1847,7 @@ F 3 "" H 3550 2850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5BDA7BB4
 P 3550 2700
 F 0 "#PWR?" H 3550 2550 50  0001 C CNN
@@ -1858,7 +1858,7 @@ F 3 "" H 3550 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C C19
+L byterubhw:C C19
 U 1 1 5BDA9BA0
 P 8850 3100
 F 0 "C19" H 8875 3200 50  0000 L CNN
@@ -1869,7 +1869,7 @@ F 3 "" H 8850 3100 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:C C18
+L byterubhw:C C18
 U 1 1 5BDA9CBD
 P 8850 2900
 F 0 "C18" H 8875 3000 50  0000 L CNN
@@ -1880,7 +1880,7 @@ F 3 "" H 8850 2900 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BDAAF34
 P 9100 3000
 F 0 "#PWR?" H 9100 2750 50  0001 C CNN
@@ -1895,7 +1895,7 @@ V_ANA
 Text Label 8400 3200 1    60   ~ 0
 V_REG
 $Comp
-L monerohw:C_Small C10
+L byterubhw:C_Small C10
 U 1 1 5BDADE7B
 P 6200 2850
 F 0 "C10" H 6210 2920 50  0000 L CNN
@@ -1906,7 +1906,7 @@ F 3 "" H 6200 2850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C11
+L byterubhw:C_Small C11
 U 1 1 5BDADFA2
 P 6400 2850
 F 0 "C11" H 6410 2920 50  0000 L CNN
@@ -1917,7 +1917,7 @@ F 3 "" H 6400 2850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BDAE0C1
 P 6300 3050
 F 0 "#PWR?" H 6300 2800 50  0001 C CNN
@@ -1928,7 +1928,7 @@ F 3 "" H 6300 3050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5BDAE1B9
 P 6300 2500
 F 0 "#PWR?" H 6300 2350 50  0001 C CNN
@@ -1947,7 +1947,7 @@ Undocumented
 Text Notes 4950 5300 0    60   ~ 0
 MC14541B
 $Comp
-L monerohw:ATECC508A U1
+L byterubhw:ATECC508A U1
 U 1 1 5BDDA6A2
 P 3300 4450
 F 0 "U1" H 3025 4875 50  0000 C CNN
@@ -1958,7 +1958,7 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20005927A.pdf" H 3300 5050 
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R5
+L byterubhw:R R5
 U 1 1 5BDDB6CE
 P 3650 3750
 F 0 "R5" V 3730 3750 50  0000 C CNN
@@ -1969,7 +1969,7 @@ F 3 "" H 3650 3750 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:R R6
+L byterubhw:R R6
 U 1 1 5BDDB80B
 P 3650 3950
 F 0 "R6" V 3730 3950 50  0000 C CNN
@@ -1980,7 +1980,7 @@ F 3 "" H 3650 3950 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:C C2
+L byterubhw:C C2
 U 1 1 5BDDB93C
 P 2800 4450
 F 0 "C2" H 2825 4550 50  0000 L CNN
@@ -1991,7 +1991,7 @@ F 3 "" H 2800 4450 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BDDBA6D
 P 3300 4950
 F 0 "#PWR?" H 3300 4700 50  0001 C CNN
@@ -2002,7 +2002,7 @@ F 3 "" H 3300 4950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5BDDBB6D
 P 3300 3950
 F 0 "#PWR?" H 3300 3800 50  0001 C CNN
@@ -2015,7 +2015,7 @@ $EndComp
 Text Notes 2750 3650 0    60   ~ 0
 CEC1702 ROM Addendum\nParagraph 4.2 Interface
 $Comp
-L monerohw:R R26
+L byterubhw:R R26
 U 1 1 5BDE3C2B
 P 15500 6950
 F 0 "R26" V 15580 6950 50  0000 C CNN
@@ -2026,7 +2026,7 @@ F 3 "" H 15500 6950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C C32
+L byterubhw:C C32
 U 1 1 5BDE3D50
 P 15500 7250
 F 0 "C32" H 15525 7350 50  0000 L CNN
@@ -2049,7 +2049,7 @@ NoConn ~ 12050 4300
 NoConn ~ 12050 4600
 NoConn ~ 12050 4900
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BDF113B
 P 11550 5400
 F 0 "#PWR?" H 11550 5150 50  0001 C CNN
@@ -2068,7 +2068,7 @@ BRIDGE_TX
 Text Label 1950 6300 0    60   ~ 0
 BRIDGE_RX
 $Comp
-L monerohw:R R1
+L byterubhw:R R1
 U 1 1 5BDF2B2D
 P 2850 6050
 F 0 "R1" V 2930 6050 50  0000 C CNN
@@ -2123,7 +2123,7 @@ SHUNTH
 Text Label 7800 3100 2    60   ~ 0
 SHUNTL
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5BE5F4CC
 P 5550 2650
 F 0 "#PWR?" H 5550 2500 50  0001 C CNN
@@ -2134,7 +2134,7 @@ F 3 "" H 5550 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BE5F5AE
 P 4450 2950
 F 0 "#PWR?" H 4450 2700 50  0001 C CNN
@@ -2145,7 +2145,7 @@ F 3 "" H 4450 2950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R10
+L byterubhw:R R10
 U 1 1 5BE5F690
 P 5000 2650
 F 0 "R10" V 5080 2650 50  0000 C CNN
@@ -2156,7 +2156,7 @@ F 3 "" H 5000 2650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:C C3
+L byterubhw:C C3
 U 1 1 5BE5F799
 P 4450 2800
 F 0 "C3" H 4475 2900 50  0000 L CNN
@@ -2181,7 +2181,7 @@ Values vary\nfrom spec
 Text Notes 7450 10900 0    60   ~ 0
 Spec\n760K\n910K
 $Comp
-L monerohw:ER-CON24 DS2
+L byterubhw:ER-CON24 DS2
 U 1 1 5BDFC107
 P 9100 9450
 F 0 "DS2" H 7900 10350 50  0000 L CNN
@@ -2202,7 +2202,7 @@ NoConn ~ 9750 10350
 NoConn ~ 9850 10350
 NoConn ~ 10150 10350
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BDFE301
 P 7950 11000
 F 0 "#PWR?" H 7950 10750 50  0001 C CNN
@@ -2213,7 +2213,7 @@ F 3 "" H 7950 11000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BDFEAE7
 P 10250 10750
 F 0 "#PWR?" H 10250 10500 50  0001 C CNN
@@ -2224,7 +2224,7 @@ F 3 "" H 10250 10750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5BDFEBCF
 P 8150 10700
 F 0 "#PWR?" H 8150 10550 50  0001 C CNN
@@ -2235,7 +2235,7 @@ F 3 "" H 8150 10700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C16
+L byterubhw:C_Small C16
 U 1 1 5BDFFADF
 P 8250 10850
 F 0 "C16" H 8260 10920 50  0000 L CNN
@@ -2246,7 +2246,7 @@ F 3 "" H 8250 10850 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L monerohw:C_Small C17
+L byterubhw:C_Small C17
 U 1 1 5BDFFBE8
 P 8250 11000
 F 0 "C17" H 8260 11070 50  0000 L CNN
@@ -2257,7 +2257,7 @@ F 3 "" H 8250 11000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BE04256
 P 8500 10350
 F 0 "#PWR?" H 8500 10100 50  0001 C CNN
@@ -2278,7 +2278,7 @@ OLED_D0
 Text Label 9250 10350 3    60   ~ 0
 OLED_D1
 $Comp
-L monerohw:R R14
+L byterubhw:R R14
 U 1 1 5BE06451
 P 9950 10500
 F 0 "R14" V 9850 10500 39  0000 C CNN
@@ -2289,7 +2289,7 @@ F 3 "" H 9950 10500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:C_Small C20
+L byterubhw:C_Small C20
 U 1 1 5BE06DB2
 P 10050 10450
 F 0 "C20" H 10150 10450 39  0000 L CNN
@@ -2320,7 +2320,7 @@ NoConn ~ 10800 7350
 NoConn ~ 10800 7150
 NoConn ~ 11800 7500
 $Comp
-L monerohw:CP2102N-A01-GQFN28 U4
+L byterubhw:CP2102N-A01-GQFN28 U4
 U 1 1 5BD382DE
 P 13400 2500
 F 0 "U4" H 13900 3450 50  0000 L CNN
@@ -2332,7 +2332,7 @@ F 3 "https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf" 
 $EndComp
 NoConn ~ 14150 9200
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5BE11EA1
 P 13350 8800
 F 0 "#PWR?" H 13350 8650 50  0001 C CNN
@@ -2343,7 +2343,7 @@ F 3 "" H 13350 8800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BE11F91
 P 13350 9000
 F 0 "#PWR?" H 13350 8750 50  0001 C CNN
@@ -2356,7 +2356,7 @@ $EndComp
 NoConn ~ 1950 5600
 NoConn ~ 1950 7400
 $Comp
-L monerohw:PWR_FLAG #FLG?
+L byterubhw:PWR_FLAG #FLG?
 U 1 1 5BE087A6
 P 7300 2800
 F 0 "#FLG?" H 7300 2875 50  0001 C CNN
@@ -2367,7 +2367,7 @@ F 3 "" H 7300 2800 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L monerohw:PWR_FLAG #FLG?
+L byterubhw:PWR_FLAG #FLG?
 U 1 1 5BE08FA2
 P 8300 2850
 F 0 "#FLG?" H 8300 2925 50  0001 C CNN
@@ -2378,7 +2378,7 @@ F 3 "" H 8300 2850 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:PWR_FLAG #FLG?
+L byterubhw:PWR_FLAG #FLG?
 U 1 1 5BE09D0C
 P 7700 2700
 F 0 "#FLG?" H 7700 2775 50  0001 C CNN
@@ -2389,7 +2389,7 @@ F 3 "" H 7700 2700 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L monerohw:PWR_FLAG #FLG?
+L byterubhw:PWR_FLAG #FLG?
 U 1 1 5BE0D7FC
 P 13150 4250
 F 0 "#FLG?" H 13150 4325 50  0001 C CNN
@@ -2400,7 +2400,7 @@ F 3 "" H 13150 4250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L monerohw:PWR_FLAG #FLG?
+L byterubhw:PWR_FLAG #FLG?
 U 1 1 5BE0F8BD
 P 8050 3000
 F 0 "#FLG?" H 8050 3075 50  0001 C CNN
@@ -2411,7 +2411,7 @@ F 3 "" H 8050 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:PWR_FLAG #FLG?
+L byterubhw:PWR_FLAG #FLG?
 U 1 1 5A7CDFEC
 P 1750 10800
 F 0 "#FLG?" H 1750 10875 50  0001 C CNN
@@ -2422,7 +2422,7 @@ F 3 "" H 1750 10800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5A7CE09C
 P 1750 10800
 F 0 "#PWR?" H 1750 10550 50  0001 C CNN
@@ -2433,7 +2433,7 @@ F 3 "" H 1750 10800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:PWR_FLAG #FLG?
+L byterubhw:PWR_FLAG #FLG?
 U 1 1 5A7C5A25
 P 1200 10800
 F 0 "#FLG?" H 1200 10875 50  0001 C CNN
@@ -2444,7 +2444,7 @@ F 3 "" H 1200 10800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5A7C8A5B
 P 900 10800
 F 0 "#PWR?" H 900 10650 50  0001 C CNN
@@ -2455,7 +2455,7 @@ F 3 "" H 900 10800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:PWR_FLAG #FLG?
+L byterubhw:PWR_FLAG #FLG?
 U 1 1 5A7C5975
 P 1200 10400
 F 0 "#FLG?" H 1200 10475 50  0001 C CNN
@@ -2466,7 +2466,7 @@ F 3 "" H 1200 10400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+5V #PWR?
+L byterubhw:+5V #PWR?
 U 1 1 5A7C89AB
 P 900 10400
 F 0 "#PWR?" H 900 10250 50  0001 C CNN
@@ -3350,7 +3350,7 @@ Wire Wire Line
 Wire Wire Line
 	1200 10400 1200 10450
 $Comp
-L monerohw:TEST TP16
+L byterubhw:TEST TP16
 U 1 1 5BE1725C
 P 8450 8200
 F 0 "TP16" H 8450 8500 50  0000 C BNN
@@ -3362,7 +3362,7 @@ F 3 "" H 8450 8200 50  0001 C CNN
 $EndComp
 Connection ~ 8350 8200
 $Comp
-L monerohw:TEST TP12
+L byterubhw:TEST TP12
 U 1 1 5BE1A1EB
 P 7000 2250
 F 0 "TP12" H 7000 2550 50  0000 C BNN
@@ -3373,7 +3373,7 @@ F 3 "" H 7000 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP14
+L byterubhw:TEST TP14
 U 1 1 5BE1A2EC
 P 7600 2250
 F 0 "TP14" H 7600 2550 50  0000 C BNN
@@ -3384,7 +3384,7 @@ F 3 "" H 7600 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP15
+L byterubhw:TEST TP15
 U 1 1 5BE1A6BB
 P 7800 2150
 F 0 "TP15" H 7800 2450 50  0000 C BNN
@@ -3398,7 +3398,7 @@ Wire Wire Line
 	7800 2150 7800 2350
 Connection ~ 7800 2350
 $Comp
-L monerohw:TEST TP13
+L byterubhw:TEST TP13
 U 1 1 5BE1AF43
 P 7400 2900
 F 0 "TP13" H 7400 3200 39  0000 C BNN
@@ -3421,7 +3421,7 @@ Wire Wire Line
 Text Label 14850 1700 0    60   ~ 0
 USB_N
 $Comp
-L monerohw:TEST TP19
+L byterubhw:TEST TP19
 U 1 1 5BE21393
 P 15250 1700
 F 0 "TP19" H 15250 2000 50  0000 C BNN
@@ -3436,7 +3436,7 @@ Wire Wire Line
 Text Label 14850 2100 0    60   ~ 0
 USB_P
 $Comp
-L monerohw:TEST TP20
+L byterubhw:TEST TP20
 U 1 1 5BE21776
 P 15250 2100
 F 0 "TP20" H 15250 2400 50  0000 C BNN
@@ -3451,7 +3451,7 @@ Wire Wire Line
 Text Label 14850 2500 0    60   ~ 0
 BRIDGE_TX
 $Comp
-L monerohw:TEST TP21
+L byterubhw:TEST TP21
 U 1 1 5BE21BD0
 P 15350 2500
 F 0 "TP21" H 15350 2800 50  0000 C BNN
@@ -3466,7 +3466,7 @@ Wire Wire Line
 Text Label 14850 2900 0    60   ~ 0
 BRIDGE_RX
 $Comp
-L monerohw:TEST TP22
+L byterubhw:TEST TP22
 U 1 1 5BE2218E
 P 15350 2900
 F 0 "TP22" H 15350 3200 50  0000 C BNN
@@ -3477,7 +3477,7 @@ F 3 "" H 15350 2900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP18
+L byterubhw:TEST TP18
 U 1 1 5BE2423E
 P 13400 1300
 F 0 "TP18" H 13400 1600 50  0000 C BNN
@@ -3491,7 +3491,7 @@ Wire Wire Line
 	13400 1300 13300 1300
 Connection ~ 13300 1300
 $Comp
-L monerohw:TEST TP11
+L byterubhw:TEST TP11
 U 1 1 5BE2E17E
 P 5400 10900
 F 0 "TP11" H 5400 11200 50  0000 C BNN
@@ -3502,7 +3502,7 @@ F 3 "" H 5400 10900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP17
+L byterubhw:TEST TP17
 U 1 1 5BE2E295
 P 8600 11150
 F 0 "TP17" H 8600 11450 50  0000 C BNN
@@ -3521,7 +3521,7 @@ Connection ~ 8350 11000
 Text Notes 2650 10700 0    60   ~ 0
 Place for legacy module\nand test point debugging
 $Comp
-L monerohw:TEST TP7
+L byterubhw:TEST TP7
 U 1 1 5BE36579
 P 2400 4250
 F 0 "TP7" H 2400 4550 50  0000 C BNN
@@ -3532,7 +3532,7 @@ F 3 "" H 2400 4250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP8
+L byterubhw:TEST TP8
 U 1 1 5BE36694
 P 2400 4850
 F 0 "TP8" H 2400 5150 50  0000 C BNN
@@ -3543,7 +3543,7 @@ F 3 "" H 2400 4850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP9
+L byterubhw:TEST TP9
 U 1 1 5BE367A5
 P 4150 4550
 F 0 "TP9" H 4150 4850 50  0000 C BNN
@@ -3554,7 +3554,7 @@ F 3 "" H 4150 4550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP10
+L byterubhw:TEST TP10
 U 1 1 5BE368DA
 P 5100 4650
 F 0 "TP10" H 5100 4950 50  0000 C BNN
@@ -3575,7 +3575,7 @@ Connection ~ 2800 4850
 Text Notes 12000 5050 1    60   ~ 0
 11-15 pwr
 $Comp
-L monerohw:CONN_01X02 J16
+L byterubhw:CONN_01X02 J16
 U 1 1 5BE4F263
 P 15000 750
 F 0 "J16" H 15000 600 50  0000 C CNN
@@ -3586,7 +3586,7 @@ F 3 "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf" H 15000 750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:D_Schottky D5
+L byterubhw:D_Schottky D5
 U 1 1 5BE4F3BE
 P 14050 800
 F 0 "D5" H 14050 1000 50  0000 C CNN
@@ -3597,7 +3597,7 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/PMEG3010EGW.pdf" H 14050 8
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5BE4F7AE
 P 14800 800
 F 0 "#PWR?" H 14800 550 50  0001 C CNN
@@ -3831,7 +3831,7 @@ Wire Wire Line
 Wire Wire Line
 	13500 800  13500 1600
 $Comp
-L monerohw:ByteRublogo-txt LOGOTXT1
+L byterubhw:ByteRublogo-txt LOGOTXT1
 U 1 1 5BE9FBCE
 P 2350 1350
 F 0 "LOGOTXT1" H 700 2100 50  0000 L CNN
@@ -3842,7 +3842,7 @@ F 3 "" H 2400 1350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D7
+L byterubhw:LED D7
 U 1 1 5BFEAD1A
 P 11750 6250
 F 0 "D7" H 11750 6050 50  0000 C CNN
@@ -3853,7 +3853,7 @@ F 3 "" H 11750 6250 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L monerohw:LED D6
+L byterubhw:LED D6
 U 1 1 5BFEAEE6
 P 11750 5950
 F 0 "D6" H 11750 5750 50  0000 C CNN
@@ -3864,7 +3864,7 @@ F 3 "" H 11750 5950 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L monerohw:R R28
+L byterubhw:R R28
 U 1 1 5C0660A2
 P 11450 6250
 F 0 "R28" V 11350 6250 50  0000 C CNN
@@ -3875,7 +3875,7 @@ F 3 "" H 11450 6250 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:R R27
+L byterubhw:R R27
 U 1 1 5C066294
 P 11450 5950
 F 0 "R27" V 11350 5950 50  0000 C CNN
@@ -3894,7 +3894,7 @@ Wire Wire Line
 Wire Wire Line
 	11300 6150 11300 6250
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5C34744B
 P 12100 6100
 F 0 "#PWR?" H 12100 5850 50  0001 C CNN
@@ -3916,7 +3916,7 @@ Connection ~ 12000 5950
 Wire Wire Line
 	12000 5950 12100 5950
 $Comp
-L monerohw:TEST TP25
+L byterubhw:TEST TP25
 U 1 1 5C09AB84
 P 15600 4700
 F 0 "TP25" H 15678 4840 50  0000 L CNN
@@ -3932,7 +3932,7 @@ Connection ~ 15500 4700
 Wire Wire Line
 	15500 4700 15500 4500
 $Comp
-L monerohw:TEST TP24
+L byterubhw:TEST TP24
 U 1 1 5C0DA98B
 P 13950 4000
 F 0 "TP24" H 13950 4350 50  0000 C CNN
@@ -3948,7 +3948,7 @@ Wire Wire Line
 Wire Wire Line
 	10700 2000 10700 2300
 $Comp
-L monerohw:SJC2 JP3
+L byterubhw:SJC2 JP3
 U 1 1 5C6F863A
 P 10400 2150
 F 0 "JP3" V 10350 1950 50  0000 L CNN
@@ -3964,7 +3964,7 @@ Connection ~ 10500 2300
 Wire Wire Line
 	10500 2300 10500 2500
 $Comp
-L monerohw:SJC2 JP4
+L byterubhw:SJC2 JP4
 U 1 1 5C736E00
 P 10600 2150
 F 0 "JP4" V 10554 2218 50  0000 L CNN
@@ -3980,7 +3980,7 @@ Connection ~ 10700 2300
 Wire Wire Line
 	10700 2300 10700 2400
 $Comp
-L monerohw:SJC2 JP5
+L byterubhw:SJC2 JP5
 U 1 1 5C775400
 P 10900 2150
 F 0 "JP5" V 10854 2218 50  0000 C CNN
@@ -4002,7 +4002,7 @@ Wire Wire Line
 	11700 2200 11700 2300
 Connection ~ 11700 2300
 $Comp
-L monerohw:SW_SPDT SW4
+L byterubhw:SW_SPDT SW4
 U 1 1 5C4A2E65
 P 14400 800
 F 0 "SW4" H 14500 544 50  0000 C CNN
@@ -4016,7 +4016,7 @@ Wire Wire Line
 	14600 700  14800 700 
 NoConn ~ 14600 900 
 $Comp
-L monerohw:TEST TP26
+L byterubhw:TEST TP26
 U 1 1 5C9CF800
 P 14200 800
 F 0 "TP26" H 14456 950 50  0000 R CNN
@@ -4028,7 +4028,7 @@ F 3 "" H 14200 800 50  0001 C CNN
 $EndComp
 Connection ~ 14200 800 
 $Comp
-L monerohw:TEST TP27
+L byterubhw:TEST TP27
 U 1 1 5C9D0894
 P 14800 700
 F 0 "TP27" H 14706 950 50  0000 L CNN
@@ -4049,7 +4049,7 @@ Wire Wire Line
 	3800 5550 5600 5550
 NoConn ~ 5600 5450
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5C67156F
 P 11300 7250
 F 0 "#PWR?" H 11300 7100 50  0001 C CNN
@@ -4060,7 +4060,7 @@ F 3 "" H 11300 7250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R29
+L byterubhw:R R29
 U 1 1 5C671770
 P 11050 7450
 F 0 "R29" V 11148 7450 50  0000 C CNN
@@ -4071,7 +4071,7 @@ F 3 "" H 11050 7450 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5C72D563
 P 11300 7450
 F 0 "#PWR?" H 11300 7200 50  0001 C CNN

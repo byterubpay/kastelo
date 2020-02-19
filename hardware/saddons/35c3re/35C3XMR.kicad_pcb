@@ -4107,7 +4107,7 @@
 
   (module ByteRub_Local:ByteRubball_15mm (layer B.Cu) (tedit 5C29E574) (tstamp 5C2D236E)
     (at 108 82 180)
-    (descr https://getmonero.org/)
+    (descr https://getbyterub.org/)
     (tags ByteRub)
     (attr virtual)
     (fp_text reference LOGO2 (at 0 9 180) (layer B.SilkS) hide

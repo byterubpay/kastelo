@@ -14,7 +14,7 @@ LibDir=
 [eeschema/libraries]
 [schematic_editor]
 version=1
-PageLayoutDescrFile=monero-light.kicad_wks
+PageLayoutDescrFile=byterub-light.kicad_wks
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
@@ -24,7 +24,7 @@ LabSize=50
 ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
-PageLayoutDescrFile=monero-dark.kicad_wks
+PageLayoutDescrFile=byterub-dark.kicad_wks
 LastNetListRead=
 PadDrill=0.4
 PadDrillOvalY=0.4

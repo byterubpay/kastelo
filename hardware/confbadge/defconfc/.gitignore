@@ -18,5 +18,5 @@ graphics/panelisation.png
 graphics/boardexplorer/*.png
 
 # exclude names of some graphics
-modules/monerohw.pretty/Brandgraphics*
+modules/byterubhw.pretty/Brandgraphics*
 graphics/artistgraph-*

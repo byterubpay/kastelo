@@ -14,7 +14,7 @@ Comment3 "Pending quality assurance testing"
 Comment4 "Warning, untested prototype!"
 $EndDescr
 $Comp
-L monerohw:35C3Logo-funny LOGO1
+L byterubhw:35C3Logo-funny LOGO1
 U 1 1 5C0D350A
 P 6400 1950
 F 0 "LOGO1" H 6200 1000 50  0000 L CNN
@@ -25,7 +25,7 @@ F 3 "" H 6450 1950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:Badgelife_shitty_conn X1
+L byterubhw:Badgelife_shitty_conn X1
 U 1 1 5C0D36BE
 P 8850 5700
 F 0 "X1" H 8950 6137 60  0000 C CNN
@@ -36,7 +36,7 @@ F 3 "" H 8850 5700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:Battery_Cell BT1
+L byterubhw:Battery_Cell BT1
 U 1 1 5C0D3775
 P 6900 5750
 F 0 "BT1" H 7018 5846 50  0000 L CNN
@@ -47,7 +47,7 @@ F 3 "" V 6900 5810 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:FiducialPassermarke FID1
+L byterubhw:FiducialPassermarke FID1
 U 1 1 5C0D3922
 P 8200 1100
 F 0 "FID1" H 8378 1191 50  0000 L CNN
@@ -58,7 +58,7 @@ F 3 "" H 8200 1100 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:Jumper NC
+L byterubhw:Jumper NC
 U 1 1 5C0D39E4
 P 3300 6800
 F 0 "NC" H 3300 6650 50  0000 C CNN
@@ -69,7 +69,7 @@ F 3 "" H 3300 6800 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:LED D1
+L byterubhw:LED D1
 U 1 1 5C0D3AAB
 P 1250 1700
 F 0 "D1" H 950 1750 50  0000 C CNN
@@ -80,7 +80,7 @@ F 3 "" H 1250 1700 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP5
+L byterubhw:TEST TP5
 U 1 1 5C0D3C86
 P 6300 6500
 F 0 "TP5" H 6378 6640 50  0000 L CNN
@@ -91,7 +91,7 @@ F 3 "" H 6300 6500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TLC555 U1
+L byterubhw:TLC555 U1
 U 1 1 5C0D3D60
 P 4900 6500
 F 0 "U1" H 4550 6950 50  0000 C CNN
@@ -102,7 +102,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/tlc555.pdf" H 5550 5950 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D2
+L byterubhw:LED D2
 U 1 1 5C0D49A6
 P 2650 1100
 F 0 "D2" H 2350 1150 50  0000 C CNN
@@ -113,7 +113,7 @@ F 3 "" H 2650 1100 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D3
+L byterubhw:LED D3
 U 1 1 5C0D4A04
 P 1250 1900
 F 0 "D3" H 950 1950 50  0000 C CNN
@@ -124,7 +124,7 @@ F 3 "" H 1250 1900 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D4
+L byterubhw:LED D4
 U 1 1 5C0D4A32
 P 2650 1300
 F 0 "D4" H 2350 1350 50  0000 C CNN
@@ -135,7 +135,7 @@ F 3 "" H 2650 1300 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D5
+L byterubhw:LED D5
 U 1 1 5C0D4A62
 P 1250 2100
 F 0 "D5" H 950 2150 50  0000 C CNN
@@ -146,7 +146,7 @@ F 3 "" H 1250 2100 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D6
+L byterubhw:LED D6
 U 1 1 5C0D4A94
 P 2650 1500
 F 0 "D6" H 2350 1550 50  0000 C CNN
@@ -157,7 +157,7 @@ F 3 "" H 2650 1500 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D7
+L byterubhw:LED D7
 U 1 1 5C0D4B02
 P 1250 2300
 F 0 "D7" H 950 2350 50  0000 C CNN
@@ -168,7 +168,7 @@ F 3 "" H 1250 2300 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D8
+L byterubhw:LED D8
 U 1 1 5C0D4B38
 P 2650 1700
 F 0 "D8" H 2350 1750 50  0000 C CNN
@@ -179,7 +179,7 @@ F 3 "" H 2650 1700 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D9
+L byterubhw:LED D9
 U 1 1 5C0D4E3E
 P 1250 2500
 F 0 "D9" H 950 2550 50  0000 C CNN
@@ -190,7 +190,7 @@ F 3 "" H 1250 2500 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D10
+L byterubhw:LED D10
 U 1 1 5C0D4E78
 P 2650 1900
 F 0 "D10" H 2350 1950 50  0000 C CNN
@@ -201,7 +201,7 @@ F 3 "" H 2650 1900 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D11
+L byterubhw:LED D11
 U 1 1 5C0D4EB4
 P 1250 2700
 F 0 "D11" H 950 2750 50  0000 C CNN
@@ -212,7 +212,7 @@ F 3 "" H 1250 2700 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D12
+L byterubhw:LED D12
 U 1 1 5C0D4EF2
 P 2650 2100
 F 0 "D12" H 2350 2150 50  0000 C CNN
@@ -223,7 +223,7 @@ F 3 "" H 2650 2100 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D13
+L byterubhw:LED D13
 U 1 1 5C0D4F74
 P 1250 2900
 F 0 "D13" H 950 2950 50  0000 C CNN
@@ -234,7 +234,7 @@ F 3 "" H 1250 2900 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D14
+L byterubhw:LED D14
 U 1 1 5C0D4FB6
 P 2650 2300
 F 0 "D14" H 2350 2350 50  0000 C CNN
@@ -245,7 +245,7 @@ F 3 "" H 2650 2300 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D15
+L byterubhw:LED D15
 U 1 1 5C0D4FFA
 P 1250 3100
 F 0 "D15" H 950 3150 50  0000 C CNN
@@ -256,7 +256,7 @@ F 3 "" H 1250 3100 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D16
+L byterubhw:LED D16
 U 1 1 5C0D5044
 P 2650 2500
 F 0 "D16" H 2350 2550 50  0000 C CNN
@@ -267,7 +267,7 @@ F 3 "" H 2650 2500 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D17
+L byterubhw:LED D17
 U 1 1 5C0D508C
 P 1250 3300
 F 0 "D17" H 950 3350 50  0000 C CNN
@@ -278,7 +278,7 @@ F 3 "" H 1250 3300 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D18
+L byterubhw:LED D18
 U 1 1 5C0D50D6
 P 2650 2700
 F 0 "D18" H 2350 2750 50  0000 C CNN
@@ -289,7 +289,7 @@ F 3 "" H 2650 2700 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D19
+L byterubhw:LED D19
 U 1 1 5C0D5122
 P 1250 3500
 F 0 "D19" H 950 3550 50  0000 C CNN
@@ -300,7 +300,7 @@ F 3 "" H 1250 3500 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D20
+L byterubhw:LED D20
 U 1 1 5C0D5170
 P 2650 2900
 F 0 "D20" H 2350 2950 50  0000 C CNN
@@ -311,7 +311,7 @@ F 3 "" H 2650 2900 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D21
+L byterubhw:LED D21
 U 1 1 5C0D51C0
 P 1250 3700
 F 0 "D21" H 950 3750 50  0000 C CNN
@@ -322,7 +322,7 @@ F 3 "" H 1250 3700 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D22
+L byterubhw:LED D22
 U 1 1 5C0D5212
 P 2650 3100
 F 0 "D22" H 2350 3150 50  0000 C CNN
@@ -333,7 +333,7 @@ F 3 "" H 2650 3100 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D23
+L byterubhw:LED D23
 U 1 1 5C0D53A6
 P 1250 3900
 F 0 "D23" H 950 3950 50  0000 C CNN
@@ -344,7 +344,7 @@ F 3 "" H 1250 3900 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D24
+L byterubhw:LED D24
 U 1 1 5C0D53FC
 P 2650 3300
 F 0 "D24" H 2350 3350 50  0000 C CNN
@@ -355,7 +355,7 @@ F 3 "" H 2650 3300 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D25
+L byterubhw:LED D25
 U 1 1 5C0D5454
 P 1250 4100
 F 0 "D25" H 950 4150 50  0000 C CNN
@@ -366,7 +366,7 @@ F 3 "" H 1250 4100 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D26
+L byterubhw:LED D26
 U 1 1 5C0D54B2
 P 2650 3500
 F 0 "D26" H 2350 3550 50  0000 C CNN
@@ -377,7 +377,7 @@ F 3 "" H 2650 3500 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:FiducialPassermarke FID2
+L byterubhw:FiducialPassermarke FID2
 U 1 1 5C0D578A
 P 8200 1500
 F 0 "FID2" H 8378 1591 50  0000 L CNN
@@ -388,7 +388,7 @@ F 3 "" H 8200 1500 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:FiducialPassermarke FID3
+L byterubhw:FiducialPassermarke FID3
 U 1 1 5C0D57F8
 P 8200 1900
 F 0 "FID3" H 8378 1991 50  0000 L CNN
@@ -399,7 +399,7 @@ F 3 "" H 8200 1900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:FiducialPassermarke FID4
+L byterubhw:FiducialPassermarke FID4
 U 1 1 5C0D5868
 P 8200 2250
 F 0 "FID4" H 8378 2341 50  0000 L CNN
@@ -410,7 +410,7 @@ F 3 "" H 8200 2250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:FiducialPassermarke FID5
+L byterubhw:FiducialPassermarke FID5
 U 1 1 5C0D58D0
 P 8200 2600
 F 0 "FID5" H 8378 2691 50  0000 L CNN
@@ -421,7 +421,7 @@ F 3 "" H 8200 2600 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:FiducialPassermarke FID6
+L byterubhw:FiducialPassermarke FID6
 U 1 1 5C0D593A
 P 8200 3000
 F 0 "FID6" H 8378 3091 50  0000 L CNN
@@ -510,7 +510,7 @@ Wire Wire Line
 	1400 4100 1400 4300
 Connection ~ 1400 4300
 $Comp
-L monerohw:LED D27
+L byterubhw:LED D27
 U 1 1 5C0DA6D5
 P 1250 4300
 F 0 "D27" H 950 4350 50  0000 C CNN
@@ -521,7 +521,7 @@ F 3 "" H 1250 4300 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D28
+L byterubhw:LED D28
 U 1 1 5C0DA6E1
 P 2650 3700
 F 0 "D28" H 2350 3750 50  0000 C CNN
@@ -532,7 +532,7 @@ F 3 "" H 2650 3700 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D29
+L byterubhw:LED D29
 U 1 1 5C0DA6E7
 P 1250 4500
 F 0 "D29" H 950 4550 50  0000 C CNN
@@ -543,7 +543,7 @@ F 3 "" H 1250 4500 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D30
+L byterubhw:LED D30
 U 1 1 5C0DA6ED
 P 2650 3900
 F 0 "D30" H 2350 3950 50  0000 C CNN
@@ -554,7 +554,7 @@ F 3 "" H 2650 3900 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D31
+L byterubhw:LED D31
 U 1 1 5C0DA6F3
 P 1250 4700
 F 0 "D31" H 950 4750 50  0000 C CNN
@@ -565,7 +565,7 @@ F 3 "" H 1250 4700 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D32
+L byterubhw:LED D32
 U 1 1 5C0DA6F9
 P 2650 4100
 F 0 "D32" H 2350 4150 50  0000 C CNN
@@ -576,7 +576,7 @@ F 3 "" H 2650 4100 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D33
+L byterubhw:LED D33
 U 1 1 5C0DA6FF
 P 1250 4900
 F 0 "D33" H 950 4950 50  0000 C CNN
@@ -587,7 +587,7 @@ F 3 "" H 1250 4900 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D34
+L byterubhw:LED D34
 U 1 1 5C0DA705
 P 2650 4300
 F 0 "D34" H 2350 4350 50  0000 C CNN
@@ -598,7 +598,7 @@ F 3 "" H 2650 4300 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D35
+L byterubhw:LED D35
 U 1 1 5C0DA70B
 P 1250 5100
 F 0 "D35" H 950 5150 50  0000 C CNN
@@ -609,7 +609,7 @@ F 3 "" H 1250 5100 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D36
+L byterubhw:LED D36
 U 1 1 5C0DA711
 P 2650 4500
 F 0 "D36" H 2350 4550 50  0000 C CNN
@@ -620,7 +620,7 @@ F 3 "" H 2650 4500 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D37
+L byterubhw:LED D37
 U 1 1 5C0DA717
 P 1250 5300
 F 0 "D37" H 950 5350 50  0000 C CNN
@@ -631,7 +631,7 @@ F 3 "" H 1250 5300 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D38
+L byterubhw:LED D38
 U 1 1 5C0DA71D
 P 2650 4700
 F 0 "D38" H 2350 4750 50  0000 C CNN
@@ -642,7 +642,7 @@ F 3 "" H 2650 4700 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D39
+L byterubhw:LED D39
 U 1 1 5C0DA723
 P 1250 5500
 F 0 "D39" H 950 5550 50  0000 C CNN
@@ -653,7 +653,7 @@ F 3 "" H 1250 5500 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D40
+L byterubhw:LED D40
 U 1 1 5C0DA729
 P 2650 4900
 F 0 "D40" H 2350 4950 50  0000 C CNN
@@ -664,7 +664,7 @@ F 3 "" H 2650 4900 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D41
+L byterubhw:LED D41
 U 1 1 5C0DA72F
 P 1250 5700
 F 0 "D41" H 950 5750 50  0000 C CNN
@@ -675,7 +675,7 @@ F 3 "" H 1250 5700 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D42
+L byterubhw:LED D42
 U 1 1 5C0DA735
 P 2650 5100
 F 0 "D42" H 2350 5150 50  0000 C CNN
@@ -686,7 +686,7 @@ F 3 "" H 2650 5100 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D43
+L byterubhw:LED D43
 U 1 1 5C0DA73B
 P 1250 5900
 F 0 "D43" H 950 5950 50  0000 C CNN
@@ -697,7 +697,7 @@ F 3 "" H 1250 5900 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D44
+L byterubhw:LED D44
 U 1 1 5C0DA741
 P 2650 5300
 F 0 "D44" H 2350 5350 50  0000 C CNN
@@ -708,7 +708,7 @@ F 3 "" H 2650 5300 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D45
+L byterubhw:LED D45
 U 1 1 5C0DA747
 P 1250 6100
 F 0 "D45" H 950 6150 50  0000 C CNN
@@ -719,7 +719,7 @@ F 3 "" H 1250 6100 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D46
+L byterubhw:LED D46
 U 1 1 5C0DA74D
 P 2650 5500
 F 0 "D46" H 2350 5550 50  0000 C CNN
@@ -730,7 +730,7 @@ F 3 "" H 2650 5500 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D47
+L byterubhw:LED D47
 U 1 1 5C0DA753
 P 1250 6300
 F 0 "D47" H 950 6350 50  0000 C CNN
@@ -741,7 +741,7 @@ F 3 "" H 1250 6300 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D48
+L byterubhw:LED D48
 U 1 1 5C0DA759
 P 2650 5700
 F 0 "D48" H 2350 5750 50  0000 C CNN
@@ -752,7 +752,7 @@ F 3 "" H 2650 5700 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D49
+L byterubhw:LED D49
 U 1 1 5C0DA75F
 P 1250 6500
 F 0 "D49" H 950 6550 50  0000 C CNN
@@ -763,7 +763,7 @@ F 3 "" H 1250 6500 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D50
+L byterubhw:LED D50
 U 1 1 5C0DA765
 P 2650 5900
 F 0 "D50" H 2350 5950 50  0000 C CNN
@@ -774,7 +774,7 @@ F 3 "" H 2650 5900 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D51
+L byterubhw:LED D51
 U 1 1 5C0DA76B
 P 1250 6700
 F 0 "D51" H 950 6750 50  0000 C CNN
@@ -785,7 +785,7 @@ F 3 "" H 1250 6700 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D52
+L byterubhw:LED D52
 U 1 1 5C0DA771
 P 2650 6100
 F 0 "D52" H 2350 6150 50  0000 C CNN
@@ -890,7 +890,7 @@ Wire Wire Line
 NoConn ~ 9400 5600
 NoConn ~ 9400 5800
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5C12B7C7
 P 4900 7000
 F 0 "#PWR?" H 4900 6750 50  0001 C CNN
@@ -901,7 +901,7 @@ F 3 "" H 4900 7000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5C1302B1
 P 7300 6050
 F 0 "#PWR?" H 7300 5800 50  0001 C CNN
@@ -912,7 +912,7 @@ F 3 "" H 7300 6050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5C13039C
 P 8500 5800
 F 0 "#PWR?" H 8500 5550 50  0001 C CNN
@@ -923,7 +923,7 @@ F 3 "" H 8500 5800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5C13048E
 P 8500 5600
 F 0 "#PWR?" H 8500 5450 50  0001 C CNN
@@ -934,7 +934,7 @@ F 3 "" H 8500 5600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5C1305BC
 P 7300 5350
 F 0 "#PWR?" H 7300 5200 50  0001 C CNN
@@ -945,7 +945,7 @@ F 3 "" H 7300 5350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5C0D3E03
 P 4900 6100
 F 0 "#PWR?" H 4900 5950 50  0001 C CNN
@@ -956,7 +956,7 @@ F 3 "" H 4900 6100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5C135E3C
 P 6300 6850
 F 0 "#PWR?" H 6300 6600 50  0001 C CNN
@@ -974,7 +974,7 @@ Wire Wire Line
 	5600 6600 5600 6500
 Connection ~ 5600 6500
 $Comp
-L monerohw:R R2
+L byterubhw:R R2
 U 1 1 5C13F258
 P 6000 6350
 F 0 "R2" H 6070 6396 50  0000 L CNN
@@ -985,7 +985,7 @@ F 3 "" H 6000 6350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:R R1
+L byterubhw:R R1
 U 1 1 5C177E3F
 P 3900 6150
 F 0 "R1" H 3970 6196 50  0000 L CNN
@@ -1000,7 +1000,7 @@ Wire Wire Line
 Wire Wire Line
 	5500 6300 5500 6200
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5C17CF98
 P 3600 6300
 F 0 "#PWR?" H 3600 6150 50  0001 C CNN
@@ -1017,7 +1017,7 @@ Wire Wire Line
 Wire Wire Line
 	6000 5700 6000 6200
 $Comp
-L monerohw:TEST TP4
+L byterubhw:TEST TP4
 U 1 1 5C186E23
 P 5600 6200
 F 0 "TP4" H 5678 6340 50  0000 L CNN
@@ -1028,7 +1028,7 @@ F 3 "" H 5600 6200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP3
+L byterubhw:TEST TP3
 U 1 1 5C186EC9
 P 4250 6300
 F 0 "TP3" H 4200 6650 50  0000 L CNN
@@ -1039,7 +1039,7 @@ F 3 "" H 4250 6300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP2
+L byterubhw:TEST TP2
 U 1 1 5C186F6F
 P 3300 6500
 F 0 "TP2" H 3250 6850 50  0000 L CNN
@@ -1050,7 +1050,7 @@ F 3 "" H 3300 6500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP1
+L byterubhw:TEST TP1
 U 1 1 5C187465
 P 2900 7100
 F 0 "TP1" H 2700 7300 50  0000 L CNN
@@ -1080,7 +1080,7 @@ Connection ~ 3900 6300
 Wire Wire Line
 	3600 6300 3900 6300
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5C2345BB
 P 10500 5800
 F 0 "#PWR?" H 10500 5650 50  0001 C CNN
@@ -1091,7 +1091,7 @@ F 3 "" H 10500 5800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5C2346BC
 P 9900 5800
 F 0 "#PWR?" H 9900 5550 50  0001 C CNN
@@ -1102,7 +1102,7 @@ F 3 "" H 9900 5800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:PWR_FLAG #FLG?
+L byterubhw:PWR_FLAG #FLG?
 U 1 1 5C2347BD
 P 9900 5800
 F 0 "#FLG?" H 9900 5875 50  0001 C CNN
@@ -1113,7 +1113,7 @@ F 3 "" H 9900 5800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:PWR_FLAG #FLG?
+L byterubhw:PWR_FLAG #FLG?
 U 1 1 5C2348B7
 P 10500 5800
 F 0 "#FLG?" H 10500 5875 50  0001 C CNN
@@ -1124,7 +1124,7 @@ F 3 "" H 10500 5800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L monerohw:LED D53
+L byterubhw:LED D53
 U 1 1 5C29A003
 P 1250 6900
 F 0 "D53" H 950 6950 50  0000 C CNN
@@ -1135,7 +1135,7 @@ F 3 "" H 1250 6900 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D54
+L byterubhw:LED D54
 U 1 1 5C29A0A9
 P 2650 6300
 F 0 "D54" H 2350 6350 50  0000 C CNN
@@ -1146,7 +1146,7 @@ F 3 "" H 2650 6300 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D55
+L byterubhw:LED D55
 U 1 1 5C29A151
 P 1250 7100
 F 0 "D55" H 950 7150 50  0000 C CNN
@@ -1157,7 +1157,7 @@ F 3 "" H 1250 7100 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L monerohw:LED D56
+L byterubhw:LED D56
 U 1 1 5C29A1FB
 P 2650 6500
 F 0 "D56" H 2350 6550 50  0000 C CNN
@@ -1324,7 +1324,7 @@ Connection ~ 2500 1500
 Wire Wire Line
 	2500 1500 2500 1700
 $Comp
-L monerohw:C C2
+L byterubhw:C C2
 U 1 1 5C10C56A
 P 4400 6850
 F 0 "C2" H 4515 6896 50  0000 L CNN
@@ -1342,7 +1342,7 @@ Wire Wire Line
 	4400 7000 4900 7000
 Connection ~ 4900 7000
 $Comp
-L monerohw:Battery_Cell BT2
+L byterubhw:Battery_Cell BT2
 U 1 1 5C121426
 P 7700 5750
 F 0 "BT2" H 7818 5846 50  0000 L CNN
@@ -1378,7 +1378,7 @@ Wire Wire Line
 	3300 6500 2800 6500
 Connection ~ 2800 6500
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5C120E7B
 P 2300 6500
 F 0 "#PWR?" H 2300 6350 50  0001 C CNN
@@ -1393,7 +1393,7 @@ Wire Wire Line
 Connection ~ 1400 7100
 Connection ~ 2900 7100
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5C136B40
 P 900 7100
 F 0 "#PWR?" H 900 6950 50  0001 C CNN
@@ -1410,7 +1410,7 @@ Wire Wire Line
 	900  7100 1100 7100
 Connection ~ 1100 7100
 $Comp
-L monerohw:Soldfeld SF1
+L byterubhw:Soldfeld SF1
 U 1 1 5C10D35E
 P 8250 3450
 F 0 "SF1" H 8478 3496 50  0000 L CNN
@@ -1421,7 +1421,7 @@ F 3 "" H 8250 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:Soldfeld SF2
+L byterubhw:Soldfeld SF2
 U 1 1 5C11D379
 P 8250 3850
 F 0 "SF2" H 8478 3896 50  0000 L CNN
@@ -1432,7 +1432,7 @@ F 3 "" H 8250 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:Soldfeld SF3
+L byterubhw:Soldfeld SF3
 U 1 1 5C11D435
 P 8250 4250
 F 0 "SF3" H 8478 4296 50  0000 L CNN
@@ -1445,7 +1445,7 @@ $EndComp
 Wire Wire Line
 	3300 6500 3700 6500
 $Comp
-L monerohw:NC7SZ04L6X U2
+L byterubhw:NC7SZ04L6X U2
 U 1 1 5C289426
 P 3700 6850
 F 0 "U2" V 3850 6950 50  0000 L CNN
@@ -1456,7 +1456,7 @@ F 3 "https://www.fairchildsemi.com/datasheets/NC/NC7SZ04.pdf" H 3700 6850 50  00
 	0    1    1    0   
 $EndComp
 $Comp
-L monerohw:GND #PWR?
+L byterubhw:GND #PWR?
 U 1 1 5C2898C9
 P 3600 6850
 F 0 "#PWR?" H 3600 6600 50  0001 C CNN
@@ -1467,7 +1467,7 @@ F 3 "" H 3600 6850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:+3V3 #PWR?
+L byterubhw:+3V3 #PWR?
 U 1 1 5C289EA4
 P 4000 6850
 F 0 "#PWR?" H 4000 6700 50  0001 C CNN
@@ -1485,7 +1485,7 @@ Connection ~ 3700 6500
 Wire Wire Line
 	3700 6500 4400 6500
 $Comp
-L monerohw:Soldfeld SF4
+L byterubhw:Soldfeld SF4
 U 1 1 5C282845
 P 8250 4650
 F 0 "SF4" H 8478 4696 50  0000 L CNN
@@ -1496,7 +1496,7 @@ F 3 "" H 8250 4650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:Soldfeld SF5
+L byterubhw:Soldfeld SF5
 U 1 1 5C2A17B2
 P 8250 5050
 F 0 "SF5" H 8478 5096 50  0000 L CNN
@@ -1507,7 +1507,7 @@ F 3 "" H 8250 5050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L monerohw:TEST TP6
+L byterubhw:TEST TP6
 U 1 1 5C2A990E
 P 6000 6800
 F 0 "TP6" H 5750 6950 50  0000 L CNN
@@ -1519,7 +1519,7 @@ F 3 "" H 6000 6800 50  0001 C CNN
 $EndComp
 Connection ~ 6300 6500
 $Comp
-L monerohw:C C1
+L byterubhw:C C1
 U 1 1 5C0D3839
 P 6300 6650
 F 0 "C1" H 6415 6696 50  0000 L CNN

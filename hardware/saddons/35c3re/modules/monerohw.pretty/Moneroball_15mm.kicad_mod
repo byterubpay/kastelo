@@ -1,5 +1,5 @@
 (module ByteRub_HW:ByteRubball_15mm (layer F.Cu) (tedit 5C29E498)
-  (descr https://getmonero.org/)
+  (descr https://getbyterub.org/)
   (tags ByteRub)
   (attr virtual)
   (fp_text reference LOGO* (at 0 -9) (layer F.SilkS) hide
