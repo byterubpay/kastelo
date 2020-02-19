@@ -1,8 +1,8 @@
-(module Monero_Logos:MoneroCircleCombi (layer F.Cu) (tedit 0)
+(module ByteRub_Logos:ByteRubCircleCombi (layer F.Cu) (tedit 0)
   (fp_text reference LOGO1 (at 0 0) (layer F.SilkS) hide
     (effects (font (thickness 0.3)))
   )
-  (fp_text value Monerologo-mid (at 0.75 0) (layer F.SilkS) hide
+  (fp_text value ByteRublogo-mid (at 0.75 0) (layer F.SilkS) hide
     (effects (font (thickness 0.3)))
   )
   (fp_poly (pts (xy -1.226062 1.369218) (xy -0.86627 1.732557) (xy -0.542874 2.054372) (xy -0.272588 2.31842)

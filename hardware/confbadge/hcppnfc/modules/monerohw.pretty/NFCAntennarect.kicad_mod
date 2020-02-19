@@ -1,4 +1,4 @@
-(module Monero_HW:NFCAntennarect (layer F.Cu)
+(module ByteRub_HW:NFCAntennarect (layer F.Cu)
   (at 0 0)
  (fp_text reference AE* (at 0 0) (layer F.SilkS) hide
   (effects (font (thickness 0.3)))

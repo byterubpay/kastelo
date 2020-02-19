@@ -247,7 +247,7 @@
   <style:master-page style:name="Default" style:page-layout-name="pm1">
    <style:header>
     <style:region-left>
-     <text:p>The Monero Project</text:p>
+     <text:p>The ByteRub Project</text:p>
     </style:region-left>
     <style:region-center>
      <text:p>Hardware Team</text:p>

@@ -1,4 +1,4 @@
-(module Monero_HW:Pin_Header_Straight_2x03_Pitch2.54mm (layer F.Cu) (tedit 5B33837B)
+(module ByteRub_HW:Pin_Header_Straight_2x03_Pitch2.54mm (layer F.Cu) (tedit 5B33837B)
   (descr "Through hole straight pin header, 2x03, 2.54mm pitch, double rows")
   (tags "Through hole pin header THT 2x03 2.54mm double row")
   (fp_text reference J2 (at 1 7.5) (layer F.SilkS)

@@ -207,7 +207,7 @@ ENDDEF
 DEF Soldfeld SF 0 40 Y Y 1 F N
 F0 "SF" 0 50 50 H V C CNN
 F1 "Soldfeld" 0 -50 50 H V C CNN
-F2 "Monero_Local:Solderarea" 0 0 50 H I C CNN
+F2 "ByteRub_Local:Solderarea" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 S -200 -150 -200 150 0 1 0 N

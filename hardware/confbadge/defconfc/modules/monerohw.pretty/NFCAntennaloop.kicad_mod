@@ -1,4 +1,4 @@
-(module Monero_HW:NFCAntennaloop (layer F.Cu) (tedit 5B17EFA3)
+(module ByteRub_HW:NFCAntennaloop (layer F.Cu) (tedit 5B17EFA3)
   (fp_text reference AE* (at 0 -1) (layer F.SilkS) hide
     (effects (font (thickness 0.3)))
   )

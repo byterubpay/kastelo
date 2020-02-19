@@ -14,8 +14,8 @@
     (title "AStable Timer LED Badge")
     (date 2018-12-31)
     (rev 0.8.5)
-    (company "The Monero Project, Hardware Team")
-    (comment 1 "Copyright © 2018, The Monero Project")
+    (company "The ByteRub Project, Hardware Team")
+    (comment 1 "Copyright © 2018, The ByteRub Project")
     (comment 2 "Releasing a betagrade test edition")
     (comment 3 "Pending quality assurance testing")
     (comment 4 "Warning, untested prototype!")
@@ -141,7 +141,7 @@
     (add_net "Net-(X1-Pad4)")
   )
 
-  (module Monero_Local:BatteryHolder_Keystone_3008_1x2450 (layer B.Cu) (tedit 5C29CCAA) (tstamp 5C29CFC5)
+  (module ByteRub_Local:BatteryHolder_Keystone_3008_1x2450 (layer B.Cu) (tedit 5C29CCAA) (tstamp 5C29CFC5)
     (at 110 117 180)
     (descr http://www.keyelco.com/product-pdf.cfm?p=786)
     (tags "Keystone type 3008 coin cell retainer")
@@ -219,7 +219,7 @@
     )
   )
 
-  (module Monero_Local:Panel_Mousetab_25mm_Single (layer F.Cu) (tedit 5C28C3FD) (tstamp 5C28CE7C)
+  (module ByteRub_Local:Panel_Mousetab_25mm_Single (layer F.Cu) (tedit 5C28C3FD) (tstamp 5C28CE7C)
     (at 94 46.25 270)
     (fp_text reference TAB2B (at 0 0) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.13)))
@@ -241,7 +241,7 @@
     (pad "" np_thru_hole circle (at 1.35 -2 270) (size 0.4 0.4) (drill 0.4) (layers *.Cu))
   )
 
-  (module Monero_Local:Panel_Mousetab_25mm_Single (layer F.Cu) (tedit 5B994000) (tstamp 5C0F2E55)
+  (module ByteRub_Local:Panel_Mousetab_25mm_Single (layer F.Cu) (tedit 5B994000) (tstamp 5C0F2E55)
     (at 129.5 128.75 90)
     (fp_text reference TAB4 (at 0 0 180) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.13)))
@@ -263,7 +263,7 @@
     (pad "" np_thru_hole circle (at 1.35 2 90) (size 0.4 0.4) (drill 0.4) (layers *.Cu))
   )
 
-  (module Monero_Local:Panel_Mousetab_25mm_Single (layer F.Cu) (tedit 5B994000) (tstamp 5C0F2E73)
+  (module ByteRub_Local:Panel_Mousetab_25mm_Single (layer F.Cu) (tedit 5B994000) (tstamp 5C0F2E73)
     (at 90 128.75 90)
     (fp_text reference TAB5 (at 0 0 180) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.13)))
@@ -285,7 +285,7 @@
     (pad "" np_thru_hole circle (at 1.35 2 90) (size 0.4 0.4) (drill 0.4) (layers *.Cu))
   )
 
-  (module Monero_Local:Panel_Mousetab_25mm_Single (layer F.Cu) (tedit 5B994000) (tstamp 5C0F306D)
+  (module ByteRub_Local:Panel_Mousetab_25mm_Single (layer F.Cu) (tedit 5B994000) (tstamp 5C0F306D)
     (at 50.5 128.75 90)
     (fp_text reference TAB6 (at 0 0 180) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.13)))
@@ -307,7 +307,7 @@
     (pad "" np_thru_hole circle (at 1.35 2 90) (size 0.4 0.4) (drill 0.4) (layers *.Cu))
   )
 
-  (module Monero_Local:Panel_Mousetab_25mm_Single (layer F.Cu) (tedit 5B994000) (tstamp 5C0F2E37)
+  (module ByteRub_Local:Panel_Mousetab_25mm_Single (layer F.Cu) (tedit 5B994000) (tstamp 5C0F2E37)
     (at 129.5 46.25 270)
     (fp_text reference TAB3 (at 0 0) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.13)))
@@ -329,7 +329,7 @@
     (pad "" np_thru_hole circle (at 1.35 2 270) (size 0.4 0.4) (drill 0.4) (layers *.Cu))
   )
 
-  (module Monero_Local:Panel_Mousetab_25mm_Single (layer F.Cu) (tedit 5C28C373) (tstamp 5C0F2E19)
+  (module ByteRub_Local:Panel_Mousetab_25mm_Single (layer F.Cu) (tedit 5C28C373) (tstamp 5C0F2E19)
     (at 86 46.25 270)
     (fp_text reference TAB2A (at 0 0) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.13)))
@@ -351,7 +351,7 @@
     (pad "" np_thru_hole circle (at 1.35 2 270) (size 0.4 0.4) (drill 0.4) (layers *.Cu))
   )
 
-  (module Monero_Local:Panel_Mousetab_25mm_Single (layer F.Cu) (tedit 5B994000) (tstamp 5C0F2DE3)
+  (module ByteRub_Local:Panel_Mousetab_25mm_Single (layer F.Cu) (tedit 5B994000) (tstamp 5C0F2DE3)
     (at 50.5 46.25 270)
     (fp_text reference TAB1 (at 0 0) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.13)))
@@ -373,7 +373,7 @@
     (pad "" np_thru_hole circle (at 1.35 2 270) (size 0.4 0.4) (drill 0.4) (layers *.Cu))
   )
 
-  (module Monero_Local:Fiducial_1mm_Dia_2.54mm (layer B.Cu) (tedit 5A80C4AB) (tstamp 5C1B5EFF)
+  (module ByteRub_Local:Fiducial_1mm_Dia_2.54mm (layer B.Cu) (tedit 5A80C4AB) (tstamp 5C1B5EFF)
     (at 44.5 52)
     (descr "Circular Fiducial, 1mm bare copper; 2.54mm keepout")
     (tags marker)
@@ -390,7 +390,7 @@
       (net 10 "Net-(FID2-Pad~)") (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Monero_Local:Fiducial_1mm_Dia_2.54mm (layer F.Cu) (tedit 5A80C4AB) (tstamp 5C1B5F05)
+  (module ByteRub_Local:Fiducial_1mm_Dia_2.54mm (layer F.Cu) (tedit 5A80C4AB) (tstamp 5C1B5F05)
     (at 135.5 52)
     (descr "Circular Fiducial, 1mm bare copper; 2.54mm keepout")
     (tags marker)
@@ -407,7 +407,7 @@
       (net 9 "Net-(FID3-Pad~)") (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Monero_Local:Fiducial_1mm_Dia_2.54mm (layer F.Cu) (tedit 5A80C4AB) (tstamp 5C1B5F11)
+  (module ByteRub_Local:Fiducial_1mm_Dia_2.54mm (layer F.Cu) (tedit 5A80C4AB) (tstamp 5C1B5F11)
     (at 135.5 123)
     (descr "Circular Fiducial, 1mm bare copper; 2.54mm keepout")
     (tags marker)
@@ -424,7 +424,7 @@
       (net 7 "Net-(FID5-Pad~)") (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Monero_Local:Fiducial_1mm_Dia_2.54mm (layer B.Cu) (tedit 5A80C4AB) (tstamp 5C1B5F0B)
+  (module ByteRub_Local:Fiducial_1mm_Dia_2.54mm (layer B.Cu) (tedit 5A80C4AB) (tstamp 5C1B5F0B)
     (at 135.5 52)
     (descr "Circular Fiducial, 1mm bare copper; 2.54mm keepout")
     (tags marker)
@@ -441,7 +441,7 @@
       (net 8 "Net-(FID4-Pad~)") (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Monero_Local:Fiducial_1mm_Dia_2.54mm (layer B.Cu) (tedit 5A80C4AB) (tstamp 5C1B5F17)
+  (module ByteRub_Local:Fiducial_1mm_Dia_2.54mm (layer B.Cu) (tedit 5A80C4AB) (tstamp 5C1B5F17)
     (at 135.5 123)
     (descr "Circular Fiducial, 1mm bare copper; 2.54mm keepout")
     (tags marker)
@@ -458,7 +458,7 @@
       (net 11 "Net-(FID6-Pad~)") (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Monero_Local:Fiducial_1mm_Dia_2.54mm (layer F.Cu) (tedit 5A80C4AB) (tstamp 5C1B5EF9)
+  (module ByteRub_Local:Fiducial_1mm_Dia_2.54mm (layer F.Cu) (tedit 5A80C4AB) (tstamp 5C1B5EF9)
     (at 44.5 52)
     (descr "Circular Fiducial, 1mm bare copper; 2.54mm keepout")
     (tags marker)
@@ -475,7 +475,7 @@
       (net 12 "Net-(FID1-Pad~)") (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Monero_Local:Kastelospecsqr (layer B.Cu) (tedit 5C29E25F) (tstamp 5C1172D8)
+  (module ByteRub_Local:Kastelospecsqr (layer B.Cu) (tedit 5C29E25F) (tstamp 5C1172D8)
     (at 126.5 82 180)
     (fp_text reference G1 (at 0 0 180) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
@@ -780,7 +780,7 @@
       (xy 1.073852 4.922336)) (layer B.SilkS) (width 0.01))
   )
 
-  (module Monero_Local:MountingHole_2.5mm (layer F.Cu) (tedit 5C10212A) (tstamp 5C0F2C22)
+  (module ByteRub_Local:MountingHole_2.5mm (layer F.Cu) (tedit 5C10212A) (tstamp 5C0F2C22)
     (at 135 132.5)
     (descr "Mounting Hole 2.5mm, no annular")
     (tags "mounting hole 2.5mm no annular")
@@ -799,7 +799,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Paste *.Mask))
   )
 
-  (module Monero_Local:BatteryHolder_Keystone_3008_1x2450 (layer B.Cu) (tedit 5C29CD6C) (tstamp 5C29CE8F)
+  (module ByteRub_Local:BatteryHolder_Keystone_3008_1x2450 (layer B.Cu) (tedit 5C29CD6C) (tstamp 5C29CE8F)
     (at 70 117 180)
     (descr http://www.keyelco.com/product-pdf.cfm?p=786)
     (tags "Keystone type 3008 coin cell retainer")
@@ -877,7 +877,7 @@
     )
   )
 
-  (module Monero_Local:PinHeader_2x02_P2.54mm_Vertical_SMD (layer B.Cu) (tedit 5C28B62C) (tstamp 5C11777C)
+  (module ByteRub_Local:PinHeader_2x02_P2.54mm_Vertical_SMD (layer B.Cu) (tedit 5C28B62C) (tstamp 5C11777C)
     (at 90 87.5)
     (descr "surface-mounted straight pin header, 2x02, 2.54mm pitch, double rows")
     (tags "Surface mounted pin header SMD 2x02 2.54mm double row")
@@ -937,7 +937,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DB0A2) (tstamp 5C1B9631)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DB0A2) (tstamp 5C1B9631)
     (at 135 106.5)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -975,7 +975,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DB091) (tstamp 5C1B961D)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DB091) (tstamp 5C1B961D)
     (at 135 84.5)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1013,7 +1013,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DB09F) (tstamp 5C1B9609)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DB09F) (tstamp 5C1B9609)
     (at 135 101)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1051,7 +1051,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DB0AD) (tstamp 5C1B95F5)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DB0AD) (tstamp 5C1B95F5)
     (at 135 117.5)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1089,7 +1089,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DB099) (tstamp 5C1B95E1)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DB099) (tstamp 5C1B95E1)
     (at 135 95.5)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1127,7 +1127,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DB095) (tstamp 5C1B95CD)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DB095) (tstamp 5C1B95CD)
     (at 135 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1165,7 +1165,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DB07A) (tstamp 5C1B95B9)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DB07A) (tstamp 5C1B95B9)
     (at 135 57)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1203,7 +1203,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DB07E) (tstamp 5C1B95A5)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DB07E) (tstamp 5C1B95A5)
     (at 135 62.5)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1241,7 +1241,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DB082) (tstamp 5C1B9591)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DB082) (tstamp 5C1B9591)
     (at 135 68)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1279,7 +1279,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DB08D) (tstamp 5C1B957D)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DB08D) (tstamp 5C1B957D)
     (at 135 79)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1317,7 +1317,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DB0A6) (tstamp 5C1B9569)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DB0A6) (tstamp 5C1B9569)
     (at 135 112)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1355,7 +1355,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DB086) (tstamp 5C1B9555)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DB086) (tstamp 5C1B9555)
     (at 135 73.5)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1393,7 +1393,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CDE) (tstamp 5C1B92E5)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CDE) (tstamp 5C1B92E5)
     (at 45 117.5 180)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1431,7 +1431,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DB8) (tstamp 5C1B92D1)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DB8) (tstamp 5C1B92D1)
     (at 45 112 180)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1469,7 +1469,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DBD) (tstamp 5C1B92BD)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DBD) (tstamp 5C1B92BD)
     (at 45 106.5 180)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1507,7 +1507,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DC1) (tstamp 5C1B92A9)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DC1) (tstamp 5C1B92A9)
     (at 45 101 180)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1545,7 +1545,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DC6) (tstamp 5C1B9295)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DC6) (tstamp 5C1B9295)
     (at 45 95.5 180)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1583,7 +1583,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DCC) (tstamp 5C1B9281)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DCC) (tstamp 5C1B9281)
     (at 45 90 180)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1621,7 +1621,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DCF) (tstamp 5C1B926D)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DCF) (tstamp 5C1B926D)
     (at 45 84.5 180)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1659,7 +1659,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DD2) (tstamp 5C1B9259)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DD2) (tstamp 5C1B9259)
     (at 45 79 180)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1697,7 +1697,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DD6) (tstamp 5C1B9245)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DD6) (tstamp 5C1B9245)
     (at 45 73.5 180)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1735,7 +1735,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DDD) (tstamp 5C1B9231)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DDD) (tstamp 5C1B9231)
     (at 45 68 180)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1773,7 +1773,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DE0) (tstamp 5C1B921D)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DE0) (tstamp 5C1B921D)
     (at 45 62.5 180)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1811,7 +1811,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4C9B) (tstamp 5C1B8ED2)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4C9B) (tstamp 5C1B8ED2)
     (at 120.25 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1849,7 +1849,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CA6) (tstamp 5C1B8EBE)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CA6) (tstamp 5C1B8EBE)
     (at 103.75 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1887,7 +1887,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CCC) (tstamp 5C1B8EAA)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CCC) (tstamp 5C1B8EAA)
     (at 59.75 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1925,7 +1925,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CAA) (tstamp 5C1B8E96)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CAA) (tstamp 5C1B8E96)
     (at 98.25 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -1963,7 +1963,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4C91) (tstamp 5C1B8E82)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4C91) (tstamp 5C1B8E82)
     (at 131.25 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2001,7 +2001,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4C94) (tstamp 5C1B8E6E)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4C94) (tstamp 5C1B8E6E)
     (at 125.75 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2039,7 +2039,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CD0) (tstamp 5C1B8E5A)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CD0) (tstamp 5C1B8E5A)
     (at 54.25 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2077,7 +2077,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CAE) (tstamp 5C1B8E46)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CAE) (tstamp 5C1B8E46)
     (at 92.75 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2115,7 +2115,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CB8) (tstamp 5C1B8E32)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CB8) (tstamp 5C1B8E32)
     (at 87.25 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2153,7 +2153,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CA1) (tstamp 5C1B8E1E)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CA1) (tstamp 5C1B8E1E)
     (at 109.25 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2191,7 +2191,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CC1) (tstamp 5C1B8E0A)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CC1) (tstamp 5C1B8E0A)
     (at 76.25 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2229,7 +2229,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CBC) (tstamp 5C1B8DF6)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CBC) (tstamp 5C1B8DF6)
     (at 81.75 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2267,7 +2267,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CC4) (tstamp 5C1B8DE2)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CC4) (tstamp 5C1B8DE2)
     (at 70.75 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2305,7 +2305,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CC8) (tstamp 5C1B8DCE)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CC8) (tstamp 5C1B8DCE)
     (at 65.25 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2343,7 +2343,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CD9) (tstamp 5C1B8DBA)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4CD9) (tstamp 5C1B8DBA)
     (at 48.75 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2381,7 +2381,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4C9E) (tstamp 5C1B8DA6)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4C9E) (tstamp 5C1B8DA6)
     (at 114.75 123 270)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2419,7 +2419,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEEC) (tstamp 5C1B8683)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEEC) (tstamp 5C1B8683)
     (at 114.75 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2457,7 +2457,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0F94E4) (tstamp 5C1B5AC4)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0F94E4) (tstamp 5C1B5AC4)
     (at 48.75 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2495,7 +2495,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAE77) (tstamp 5C1B85CF)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAE77) (tstamp 5C1B85CF)
     (at 65.25 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2533,7 +2533,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEBA) (tstamp 5C1B85E3)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEBA) (tstamp 5C1B85E3)
     (at 70.75 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2571,7 +2571,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEC3) (tstamp 5C1B860B)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEC3) (tstamp 5C1B860B)
     (at 81.75 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2609,7 +2609,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEBF) (tstamp 5C1B85F7)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEBF) (tstamp 5C1B85F7)
     (at 76.25 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2647,7 +2647,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEF2) (tstamp 5C1B866F)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEF2) (tstamp 5C1B866F)
     (at 109.25 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2685,7 +2685,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEC6) (tstamp 5C1B861F)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEC6) (tstamp 5C1B861F)
     (at 87.25 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2723,7 +2723,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAECA) (tstamp 5C1B8633)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAECA) (tstamp 5C1B8633)
     (at 92.75 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2761,7 +2761,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAE70) (tstamp 5C1B85A7)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAE70) (tstamp 5C1B85A7)
     (at 54.25 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2799,7 +2799,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEE7) (tstamp 5C1B86AB)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEE7) (tstamp 5C1B86AB)
     (at 125.75 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2837,7 +2837,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEE1) (tstamp 5C1B86BF)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEE1) (tstamp 5C1B86BF)
     (at 131.25 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2875,7 +2875,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEFB) (tstamp 5C1B8647)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEFB) (tstamp 5C1B8647)
     (at 98.25 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2913,7 +2913,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAE73) (tstamp 5C1B85BB)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAE73) (tstamp 5C1B85BB)
     (at 59.75 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2951,7 +2951,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEF7) (tstamp 5C1B865B)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEF7) (tstamp 5C1B865B)
     (at 103.75 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -2989,7 +2989,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEE9) (tstamp 5C1B8697)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0DAEE9) (tstamp 5C1B8697)
     (at 120.25 52 90)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -3027,7 +3027,7 @@
     )
   )
 
-  (module Monero_Local:C_0805 (layer B.Cu) (tedit 5C29EB46) (tstamp 5C11798B)
+  (module ByteRub_Local:C_0805 (layer B.Cu) (tedit 5C29EB46) (tstamp 5C11798B)
     (at 75 81 180)
     (descr "Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0805")
@@ -3063,7 +3063,7 @@
     )
   )
 
-  (module Monero_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DE2) (tstamp 5C1B5AD9)
+  (module ByteRub_Local:LED_1206 (layer F.Cu) (tedit 5C0D4DE2) (tstamp 5C1B5AD9)
     (at 45 57 180)
     (descr "LED 1206 smd package")
     (tags "LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -3101,7 +3101,7 @@
     )
   )
 
-  (module Monero_Local:R_0805 (layer F.Cu) (tedit 5C2A1DE9) (tstamp 5C1B5F28)
+  (module ByteRub_Local:R_0805 (layer F.Cu) (tedit 5C2A1DE9) (tstamp 5C1B5F28)
     (at 43 124 270)
     (descr "Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0805")
@@ -3137,7 +3137,7 @@
     )
   )
 
-  (module Monero_Local:35C3Funny (layer F.Cu) (tedit 5C29E23F) (tstamp 5C1B5F43)
+  (module ByteRub_Local:35C3Funny (layer F.Cu) (tedit 5C29E23F) (tstamp 5C1B5F43)
     (at 90 88)
     (path /5C0D350A)
     (fp_text reference LOGO1 (at 0 0) (layer F.SilkS) hide
@@ -3622,7 +3622,7 @@
       (xy 24.424192 -27.262667) (xy 26.026874 -25.177308)) (layer F.SilkS) (width 0.01))
   )
 
-  (module Monero_Local:R_0805 (layer B.Cu) (tedit 5C0E8D90) (tstamp 5C11795B)
+  (module ByteRub_Local:R_0805 (layer B.Cu) (tedit 5C0E8D90) (tstamp 5C11795B)
     (at 94 74)
     (descr "Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0805")
@@ -3658,7 +3658,7 @@
     )
   )
 
-  (module Monero_Local:R_0805 (layer B.Cu) (tedit 5C29EB30) (tstamp 5C11792B)
+  (module ByteRub_Local:R_0805 (layer B.Cu) (tedit 5C29EB30) (tstamp 5C11792B)
     (at 94 78)
     (descr "Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0805")
@@ -3694,7 +3694,7 @@
     )
   )
 
-  (module Monero_Local:TestPoint_THTPad_D1.5mm_Drill0.7mm (layer F.Cu) (tedit 5C28C031) (tstamp 5C1B5F7D)
+  (module ByteRub_Local:TestPoint_THTPad_D1.5mm_Drill0.7mm (layer F.Cu) (tedit 5C28C031) (tstamp 5C1B5F7D)
     (at 52 88)
     (descr "THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm")
     (tags "test point THT pad")
@@ -3715,7 +3715,7 @@
       (net 1 +3V3))
   )
 
-  (module Monero_Local:TestPoint_THTPad_D1.5mm_Drill0.7mm (layer F.Cu) (tedit 5C0E8EA7) (tstamp 5C1B5F85)
+  (module ByteRub_Local:TestPoint_THTPad_D1.5mm_Drill0.7mm (layer F.Cu) (tedit 5C0E8EA7) (tstamp 5C1B5F85)
     (at 52 92)
     (descr "THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm")
     (tags "test point THT pad")
@@ -3736,7 +3736,7 @@
       (net 2 "Net-(R1-Pad1)"))
   )
 
-  (module Monero_Local:TestPoint_THTPad_D1.5mm_Drill0.7mm (layer F.Cu) (tedit 5C0E8EDA) (tstamp 5C1B5F8D)
+  (module ByteRub_Local:TestPoint_THTPad_D1.5mm_Drill0.7mm (layer F.Cu) (tedit 5C0E8EDA) (tstamp 5C1B5F8D)
     (at 52 96)
     (descr "THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm")
     (tags "test point THT pad")
@@ -3757,7 +3757,7 @@
       (net 3 "Net-(C1-Pad1)"))
   )
 
-  (module Monero_Local:SOIC-8_3.9x4.9mm_P1.27mm (layer B.Cu) (tedit 5C0E8D82) (tstamp 5C1177EA)
+  (module ByteRub_Local:SOIC-8_3.9x4.9mm_P1.27mm (layer B.Cu) (tedit 5C0E8D82) (tstamp 5C1177EA)
     (at 86 76)
     (descr "8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SOIC 1.27")
@@ -3811,7 +3811,7 @@
     )
   )
 
-  (module Monero_Local:MountingHole_2.5mm (layer F.Cu) (tedit 5C1020F7) (tstamp 5C0F2C04)
+  (module ByteRub_Local:MountingHole_2.5mm (layer F.Cu) (tedit 5C1020F7) (tstamp 5C0F2C04)
     (at 45 42.5)
     (descr "Mounting Hole 2.5mm, no annular")
     (tags "mounting hole 2.5mm no annular")
@@ -3830,7 +3830,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Paste *.Mask))
   )
 
-  (module Monero_Local:MountingHole_2.5mm (layer F.Cu) (tedit 5C102102) (tstamp 5C0F2C13)
+  (module ByteRub_Local:MountingHole_2.5mm (layer F.Cu) (tedit 5C102102) (tstamp 5C0F2C13)
     (at 135 42.5)
     (descr "Mounting Hole 2.5mm, no annular")
     (tags "mounting hole 2.5mm no annular")
@@ -3849,7 +3849,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Paste *.Mask))
   )
 
-  (module Monero_Local:MountingHole_2.5mm (layer F.Cu) (tedit 5C10211A) (tstamp 5C0F2C31)
+  (module ByteRub_Local:MountingHole_2.5mm (layer F.Cu) (tedit 5C10211A) (tstamp 5C0F2C31)
     (at 45 132.5)
     (descr "Mounting Hole 2.5mm, no annular")
     (tags "mounting hole 2.5mm no annular")
@@ -3868,7 +3868,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Paste *.Mask))
   )
 
-  (module Monero_Local:C_0805 (layer B.Cu) (tedit 5C0E8D8B) (tstamp 5C1178BC)
+  (module ByteRub_Local:C_0805 (layer B.Cu) (tedit 5C0E8D8B) (tstamp 5C1178BC)
     (at 94 70)
     (descr "Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0805")
@@ -3904,7 +3904,7 @@
     )
   )
 
-  (module Monero_Local:TestPoint_THTPad_D1.5mm_Drill0.7mm (layer F.Cu) (tedit 5C0EECF9) (tstamp 5C0EF795)
+  (module ByteRub_Local:TestPoint_THTPad_D1.5mm_Drill0.7mm (layer F.Cu) (tedit 5C0EECF9) (tstamp 5C0EF795)
     (at 52 80)
     (descr "THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm")
     (tags "test point THT pad")
@@ -3925,7 +3925,7 @@
       (net 14 "Net-(D1-Pad1)"))
   )
 
-  (module Monero_Local:TestPoint_THTPad_D1.5mm_Drill0.7mm (layer F.Cu) (tedit 5C0EECF5) (tstamp 5C0EF79D)
+  (module ByteRub_Local:TestPoint_THTPad_D1.5mm_Drill0.7mm (layer F.Cu) (tedit 5C0EECF5) (tstamp 5C0EF79D)
     (at 52 84)
     (descr "THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm")
     (tags "test point THT pad")
@@ -3946,7 +3946,7 @@
       (net 15 "Net-(D10-Pad1)"))
   )
 
-  (module Monero_Local:Solderarea (layer B.Cu) (tedit 5C0FE112) (tstamp 5C117FC9)
+  (module ByteRub_Local:Solderarea (layer B.Cu) (tedit 5C0FE112) (tstamp 5C117FC9)
     (at 65 90 180)
     (path /5C10D35E)
     (fp_text reference SF1 (at 0 4 180) (layer B.SilkS)
@@ -3965,7 +3965,7 @@
     (pad 1 smd roundrect (at -6 1.5 180) (size 3 2) (layers B.Cu B.Mask) (roundrect_rratio 0.25))
   )
 
-  (module Monero_Local:Solderarea (layer B.Cu) (tedit 5C0FE112) (tstamp 5C29D2F5)
+  (module ByteRub_Local:Solderarea (layer B.Cu) (tedit 5C0FE112) (tstamp 5C29D2F5)
     (at 58 60 180)
     (path /5C11D379)
     (fp_text reference SF2 (at 9.15 0 180) (layer B.SilkS)
@@ -3984,7 +3984,7 @@
     (pad 1 smd roundrect (at -6 1.5 180) (size 3 2) (layers B.Cu B.Mask) (roundrect_rratio 0.25))
   )
 
-  (module Monero_Local:Solderarea (layer B.Cu) (tedit 5C0FE112) (tstamp 5C29D2D4)
+  (module ByteRub_Local:Solderarea (layer B.Cu) (tedit 5C0FE112) (tstamp 5C29D2D4)
     (at 58 66 180)
     (path /5C11D435)
     (fp_text reference SF3 (at 9.15 0 180) (layer B.SilkS)
@@ -4003,7 +4003,7 @@
     (pad 7 smd roundrect (at -2 -1.5 180) (size 3 2) (layers B.Cu B.Mask) (roundrect_rratio 0.25))
   )
 
-  (module Monero_Local:Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm (layer B.Cu) (tedit 5C28B937) (tstamp 5C293CBE)
+  (module ByteRub_Local:Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm (layer B.Cu) (tedit 5C28B937) (tstamp 5C293CBE)
     (at 75.3675 75 90)
     (descr "Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm https://www.nxp.com/docs/en/application-note/AN10343.pdff")
     (tags "Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm")
@@ -4046,7 +4046,7 @@
     )
   )
 
-  (module Monero_Local:Solderarea (layer B.Cu) (tedit 5C28C01B) (tstamp 5C293D9E)
+  (module ByteRub_Local:Solderarea (layer B.Cu) (tedit 5C28C01B) (tstamp 5C293D9E)
     (at 82 60)
     (path /5C282845)
     (fp_text reference SF4 (at 0 4) (layer B.SilkS) hide
@@ -4065,7 +4065,7 @@
     (pad 7 smd roundrect (at -2 -1.5) (size 3 2) (layers B.Cu B.Mask) (roundrect_rratio 0.25))
   )
 
-  (module Monero_Local:Solderarea (layer B.Cu) (tedit 5C28C01F) (tstamp 5C29430D)
+  (module ByteRub_Local:Solderarea (layer B.Cu) (tedit 5C28C01F) (tstamp 5C29430D)
     (at 98 60)
     (path /5C2A17B2)
     (fp_text reference SF5 (at 0 4) (layer B.SilkS) hide
@@ -4084,7 +4084,7 @@
     (pad 7 smd roundrect (at -2 -1.5) (size 3 2) (layers B.Cu B.Mask) (roundrect_rratio 0.25))
   )
 
-  (module Monero_Local:TestPoint_THTPad_D1.5mm_Drill0.7mm (layer F.Cu) (tedit 5C28B608) (tstamp 5C294859)
+  (module ByteRub_Local:TestPoint_THTPad_D1.5mm_Drill0.7mm (layer F.Cu) (tedit 5C28B608) (tstamp 5C294859)
     (at 55.5 88)
     (descr "THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm")
     (tags "test point THT pad")
@@ -4105,15 +4105,15 @@
       (net 4 GND))
   )
 
-  (module Monero_Local:Moneroball_15mm (layer B.Cu) (tedit 5C29E574) (tstamp 5C2D236E)
+  (module ByteRub_Local:ByteRubball_15mm (layer B.Cu) (tedit 5C29E574) (tstamp 5C2D236E)
     (at 108 82 180)
     (descr https://getmonero.org/)
-    (tags Monero)
+    (tags ByteRub)
     (attr virtual)
     (fp_text reference LOGO2 (at 0 9 180) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
-    (fp_text value Moneroball (at 0 -9 180) (layer B.SilkS) hide
+    (fp_text value ByteRubball (at 0 -9 180) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
     (fp_poly (pts (xy 0.399128 7.483281) (xy 0.837955 7.44712) (xy 1.274415 7.385287) (xy 1.707263 7.297783)
@@ -4294,7 +4294,7 @@
   (gr_text "http://www.ohmslawcalculator.com/555-astable-calculator\nhttps://www.allaboutcircuits.com/textbook/experiments/chpt-8/cmos-555-long-duration-minimum-parts-red-led-flasher/" (at 20 188) (layer Cmts.User)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
   )
-  (gr_text "Copyright © 2018, The Monero Project\nCERN Open Hardware Licence 1.2\nAstable CMOS Timer Badge 0.8.5" (at 134 96) (layer B.SilkS) (tstamp 5C29DD26)
+  (gr_text "Copyright © 2018, The ByteRub Project\nCERN Open Hardware Licence 1.2\nAstable CMOS Timer Badge 0.8.5" (at 134 96) (layer B.SilkS) (tstamp 5C29DD26)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left mirror))
   )
   (gr_arc (start 46.75 128.75) (end 48 127.5) (angle 90) (layer Edge.Cuts) (width 0.15))

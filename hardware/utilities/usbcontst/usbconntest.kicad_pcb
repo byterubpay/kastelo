@@ -17,8 +17,8 @@
     (title "USB-C Receptacle Tester")
     (date 2018-09-10)
     (rev 0.7)
-    (company "The Monero Project Hardware Team")
-    (comment 1 "Copyright © 2018, The Monero Project")
+    (company "The ByteRub Project Hardware Team")
+    (comment 1 "Copyright © 2018, The ByteRub Project")
     (comment 2 "Enabling testing of USB-C hardware")
     (comment 3 "Pending quality assurance testing")
     (comment 4 "Warning, untested prototype!")
@@ -169,7 +169,7 @@
     (add_net "Net-(J3-Pad24)")
   )
 
-  (module Monero_HW:Pin_Header_Straight_1x24_Pitch2.54mm (layer F.Cu) (tedit 5862ED52) (tstamp 5B9795E3)
+  (module ByteRub_HW:Pin_Header_Straight_1x24_Pitch2.54mm (layer F.Cu) (tedit 5862ED52) (tstamp 5B9795E3)
     (at 72 89 90)
     (descr "Through hole straight pin header, 1x24, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x24 2.54mm single row")
@@ -249,7 +249,7 @@
     )
   )
 
-  (module Monero_HW:Pin_Header_Straight_1x24_Pitch2.54mm (layer F.Cu) (tedit 5862ED52) (tstamp 5B97961B)
+  (module ByteRub_HW:Pin_Header_Straight_1x24_Pitch2.54mm (layer F.Cu) (tedit 5862ED52) (tstamp 5B97961B)
     (at 72 96 90)
     (descr "Through hole straight pin header, 1x24, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x24 2.54mm single row")
@@ -324,7 +324,7 @@
       (net 26 "Net-(J3-Pad24)"))
   )
 
-  (module Monero_HW:USB_C_Plug_Molex_105444 (layer F.Cu) (tedit 59237922) (tstamp 5B979637)
+  (module ByteRub_HW:USB_C_Plug_Molex_105444 (layer F.Cu) (tedit 59237922) (tstamp 5B979637)
     (at 101.25 80)
     (descr "Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, http://www.molex.com/pdm_docs/sd/1054440001_sd.pdf")
     (tags "USB Type-C Plug Edge Mount")
@@ -410,7 +410,7 @@
     )
   )
 
-  (module Monero_HW:Fiducial_1mm_Dia_2mm_Outer (layer F.Cu) (tedit 5B97FD5E) (tstamp 5B97AD8A)
+  (module ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer (layer F.Cu) (tedit 5B97FD5E) (tstamp 5B97AD8A)
     (at 73 84)
     (descr "Circular Fiducial, 1mm bare copper; 2mm keepout (Level A)")
     (tags marker)
@@ -431,7 +431,7 @@
       (net 27 "Net-(FID1-Pad~)") (solder_mask_margin 0.5) (clearance 0.5))
   )
 
-  (module Monero_HW:Fiducial_1mm_Dia_2mm_Outer (layer F.Cu) (tedit 5B97FD61) (tstamp 5B97AD8F)
+  (module ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer (layer F.Cu) (tedit 5B97FD61) (tstamp 5B97AD8F)
     (at 128 84)
     (descr "Circular Fiducial, 1mm bare copper; 2mm keepout (Level A)")
     (tags marker)
@@ -452,7 +452,7 @@
       (net 28 "Net-(FID2-Pad~)") (solder_mask_margin 0.5) (clearance 0.5))
   )
 
-  (module Monero_HW:Fiducial_1mm_Dia_2mm_Outer (layer F.Cu) (tedit 5B97FD64) (tstamp 5B97AD94)
+  (module ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer (layer F.Cu) (tedit 5B97FD64) (tstamp 5B97AD94)
     (at 132 98)
     (descr "Circular Fiducial, 1mm bare copper; 2mm keepout (Level A)")
     (tags marker)
@@ -507,7 +507,7 @@
   (gr_text "The USB-C Receptacle Pin Tester" (at 101 85) (layer B.SilkS)
     (effects (font (size 2 2) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "Copyright ©2018 The Monero Project" (at 101 92.25) (layer B.SilkS)
+  (gr_text "Copyright ©2018 The ByteRub Project" (at 101 92.25) (layer B.SilkS)
     (effects (font (size 2 2) (thickness 0.3)) (justify mirror))
   )
   (gr_text "You test some USB with this thing" (at 100.5 84.5) (layer F.SilkS)

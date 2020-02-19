@@ -271,7 +271,7 @@
    </text:sequence-decls>
    <text:p text:style-name="P2">HCPP 18 BADGE DISCLAIMER 20180900</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">1. STATUS</text:h>
-   <text:p text:style-name="P1">The Monero Hardware Team (“MHT”) is a loose collective of individuals that aim to provide hardware at HCPP 18. There is no centralized authority, entity, or institution that controls, dictates, regulates, or makes decisions for, or on behalf of, any member of the collective. It is not the intent of MHT to form any partnership, joint venture, agency, employer-employee or fiduciary relationship.</text:p>
+   <text:p text:style-name="P1">The ByteRub Hardware Team (“MHT”) is a loose collective of individuals that aim to provide hardware at HCPP 18. There is no centralized authority, entity, or institution that controls, dictates, regulates, or makes decisions for, or on behalf of, any member of the collective. It is not the intent of MHT to form any partnership, joint venture, agency, employer-employee or fiduciary relationship.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">2. DELIVERY</text:h>
    <text:p text:style-name="P1">MHT delivers a HCPP 18 Badge (“BADGE”) that is constructed of open electrical components to Users on condition that Users voluntarily and knowingly assume the risks associated with handling such components, which could potentially lead to shock, fire, serious injury, and/or damage to property. Users undertake to take all necessary measures to minimize these risks. The BADGE is an unfinished product to be used for experimentation and does not have any specific intended use case.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">3. DISCLAIMER</text:h>

@@ -1,4 +1,4 @@
-(module Monero_HW:TestPoint_THTPad_D1.5mm_Drill0.7mm (layer F.Cu) (tedit 5A0F774F)
+(module ByteRub_HW:TestPoint_THTPad_D1.5mm_Drill0.7mm (layer F.Cu) (tedit 5A0F774F)
   (descr "THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm")
   (tags "test point THT pad")
   (attr virtual)

@@ -1,4 +1,4 @@
-(module Monero_HW:NFCAntennatiny (layer F.Cu) (tedit 5B85435F)
+(module ByteRub_HW:NFCAntennatiny (layer F.Cu) (tedit 5B85435F)
   (fp_text reference AE* (at 0 -1) (layer F.SilkS) hide
     (effects (font (thickness 0.3)))
   )

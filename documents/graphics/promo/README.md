@@ -1,6 +1,6 @@
 # Promotional Graphics
 
-The Monero Hardware Wallet promotes its brand by making graphics freely available for use in publications.
+The ByteRub Hardware Wallet promotes its brand by making graphics freely available for use in publications.
 
 ## Licenses
 

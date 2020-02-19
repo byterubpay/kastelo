@@ -2,7 +2,7 @@
 
 ## 1. STATUS
 
-RFC-HWALLET-1 development team (“HWDT”) is a loose collective of individuals with an aim of developing an Open Source printed circuit board design for a dedicated Monero hardware wallet. There is no centralized authority, entity, or institution that controls, dictates, regulates, or makes decisions for, or on behalf of, any member of the collective. It is not the intent of HWDT to form any partnership, joint venture, agency, employer-employee or fiduciary relationship.
+RFC-HWALLET-1 development team (“HWDT”) is a loose collective of individuals with an aim of developing an Open Source printed circuit board design for a dedicated ByteRub hardware wallet. There is no centralized authority, entity, or institution that controls, dictates, regulates, or makes decisions for, or on behalf of, any member of the collective. It is not the intent of HWDT to form any partnership, joint venture, agency, employer-employee or fiduciary relationship.
 
 ## 2. DELIVERY
 
@@ -26,4 +26,4 @@ The DP is intended to be used exclusively for testing to find out components’ 
 
 ## 7. EVALUATION TOKENS
 
-Some devices may include evaluation tokens. These tokens exist in a test network (“testnet”), which is separate from the main Monero network and subject to network resets at any time. As such, said tokens do not contain any value. Testnet addresses are identified by an address prefix that start with A, B, or 9.
+Some devices may include evaluation tokens. These tokens exist in a test network (“testnet”), which is separate from the main ByteRub network and subject to network resets at any time. As such, said tokens do not contain any value. Testnet addresses are identified by an address prefix that start with A, B, or 9.

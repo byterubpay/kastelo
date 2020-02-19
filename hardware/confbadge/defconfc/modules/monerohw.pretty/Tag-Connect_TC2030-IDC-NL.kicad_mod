@@ -1,4 +1,4 @@
-(module Monero_HW:Tag-Connect_TC2030-IDC-NL (layer F.Cu) (tedit 5AE9F193)
+(module ByteRub_HW:Tag-Connect_TC2030-IDC-NL (layer F.Cu) (tedit 5AE9F193)
   (descr "Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf")
   (tags "tag connect programming header pogo pins")
   (attr virtual)

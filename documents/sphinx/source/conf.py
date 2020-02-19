@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Sekura'
-copyright = '2017, The Monero Project'
-author = 'The Monero Project'
+copyright = '2017, The ByteRub Project'
+author = 'The ByteRub Project'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -142,7 +142,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'Sekura.tex', 'Sekura Documentation',
-     'The Monero Project', 'manual'),
+     'The ByteRub Project', 'manual'),
 ]
 
 

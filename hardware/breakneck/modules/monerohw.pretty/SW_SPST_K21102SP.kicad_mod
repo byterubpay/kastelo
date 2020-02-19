@@ -1,4 +1,4 @@
-(module Monero_HW:SW_SPST_K21102SP (layer F.Cu) (tedit 5B85E561)
+(module ByteRub_HW:SW_SPST_K21102SP (layer F.Cu) (tedit 5B85E561)
   (descr "Hro Electronics SPST SMD K2-1102SP-C4SC-04 6mm Tact Switch")
   (tags "SPST Button Switch")
   (attr smd)

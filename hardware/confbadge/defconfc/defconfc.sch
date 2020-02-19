@@ -8,8 +8,8 @@ Sheet 1 1
 Title "DefcoNFC Hardware Badge"
 Date "2018-06-22"
 Rev "1.0.0"
-Comp "The Monero Project, Hardware Team"
-Comment1 "Copyright © 2018, The Monero Project"
+Comp "The ByteRub Project, Hardware Team"
+Comment1 "Copyright © 2018, The ByteRub Project"
 Comment2 "Fulfilling the first annual village role"
 Comment3 "Pending quality assurance testing"
 Comment4 "Warning, untested prototype!"
@@ -20,7 +20,7 @@ U 1 1 5AE871D6
 P 2450 5050
 F 0 "U3" H 1650 5450 50  0000 C CNN
 F 1 "ATTINY13A-SSU" H 3000 4650 50  0000 C CNN
-F 2 "Monero_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm" H 3050 5050 50  0001 C CIN
+F 2 "ByteRub_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm" H 3050 5050 50  0001 C CIN
 F 3 "https://www.microchip.com/wwwproducts/ATtiny13A/" H 1650 5400 50  0001 C CNN
 	1    2450 5050
 	-1   0    0    -1  
@@ -31,7 +31,7 @@ U 1 1 5AE87290
 P 7550 1850
 F 0 "D1" H 7550 1950 50  0000 C CNN
 F 1 "LED" H 7550 1750 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 7550 1850 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 7550 1850 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 7550 1850 50  0001 C CNN
 	1    7550 1850
 	0    -1   -1   0   
@@ -42,7 +42,7 @@ U 1 1 5AE8730F
 P 7950 1850
 F 0 "D3" H 7950 1950 50  0000 C CNN
 F 1 "LED" H 7950 1750 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 7950 1850 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 7950 1850 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 7950 1850 50  0001 C CNN
 	1    7950 1850
 	0    -1   -1   0   
@@ -53,7 +53,7 @@ U 1 1 5AE8733A
 P 7550 2650
 F 0 "D2" H 7550 2750 50  0000 C CNN
 F 1 "LED" H 7550 2550 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 7550 2650 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 7550 2650 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 7550 2650 50  0001 C CNN
 	1    7550 2650
 	0    -1   -1   0   
@@ -64,7 +64,7 @@ U 1 1 5AE8735B
 P 7950 2650
 F 0 "D4" H 7950 2750 50  0000 C CNN
 F 1 "LED" H 7950 2550 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 7950 2650 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 7950 2650 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 7950 2650 50  0001 C CNN
 	1    7950 2650
 	0    -1   -1   0   
@@ -75,7 +75,7 @@ U 1 1 5AE874CA
 P 3650 7050
 F 0 "BT1" H 3800 7100 50  0000 L CNN
 F 1 "Battery_Cell" V 3450 6850 50  0000 L CNN
-F 2 "Monero_HW:Keystone_3034_1x2032-Coincell" V 3650 7110 50  0001 C CNN
+F 2 "ByteRub_HW:Keystone_3034_1x2032-Coincell" V 3650 7110 50  0001 C CNN
 F 3 "http://keyelco.com/userAssets/file/M65p9.pdf" V 3650 7110 50  0001 C CNN
 	1    3650 7050
 	1    0    0    -1  
@@ -86,7 +86,7 @@ U 1 1 5AE8755B
 P 6900 2250
 F 0 "R1" V 6980 2250 50  0000 C CNN
 F 1 "220" V 6900 2250 50  0000 C CNN
-F 2 "Monero_HW:R_0805" V 6830 2250 50  0001 C CNN
+F 2 "ByteRub_HW:R_0805" V 6830 2250 50  0001 C CNN
 F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-AC_51_RoHS_L_6.pdf" H 6900 2250 50  0001 C CNN
 	1    6900 2250
 	0    1    1    0   
@@ -97,7 +97,7 @@ U 1 1 5AE8772D
 P 4150 5200
 F 0 "SW3" H 4150 5325 50  0000 C CNN
 F 1 "SW_SPST" H 4150 5100 50  0000 C CNN
-F 2 "Monero_HW:SW_SPST_PTS645" H 4150 5200 50  0001 C CNN
+F 2 "ByteRub_HW:SW_SPST_PTS645" H 4150 5200 50  0001 C CNN
 F 3 "https://www.ckswitches.com/media/1471/pts645.pdf" H 4150 5200 50  0001 C CNN
 	1    4150 5200
 	1    0    0    -1  
@@ -108,7 +108,7 @@ U 1 1 5AE8ADFB
 P 1550 2950
 F 0 "SW1" H 1550 3075 50  0000 C CNN
 F 1 "SW_SPST" H 1550 2850 50  0000 C CNN
-F 2 "Monero_HW:SW_SPST_PTS645" H 1550 2950 50  0001 C CNN
+F 2 "ByteRub_HW:SW_SPST_PTS645" H 1550 2950 50  0001 C CNN
 F 3 "https://www.ckswitches.com/media/1471/pts645.pdf" H 1550 2950 50  0001 C CNN
 	1    1550 2950
 	1    0    0    -1  
@@ -119,7 +119,7 @@ U 1 1 5AE8AEBA
 P 5150 2950
 F 0 "SW2" H 5150 3075 50  0000 C CNN
 F 1 "SW_SPST" H 5150 2850 50  0000 C CNN
-F 2 "Monero_HW:SW_SPST_PTS645" H 5150 2950 50  0001 C CNN
+F 2 "ByteRub_HW:SW_SPST_PTS645" H 5150 2950 50  0001 C CNN
 F 3 "https://www.ckswitches.com/media/1471/pts645.pdf" H 5150 2950 50  0001 C CNN
 	1    5150 2950
 	-1   0    0    -1  
@@ -130,7 +130,7 @@ U 1 1 5AE8AF07
 P 4450 6850
 F 0 "SW4" H 4450 7020 50  0000 C CNN
 F 1 "SW_SPDT" H 4450 6650 50  0000 C CNN
-F 2 "Monero_HW:SW_SPDT_CK-JS102011SAQN" H 4450 6850 50  0001 C CNN
+F 2 "ByteRub_HW:SW_SPDT_CK-JS102011SAQN" H 4450 6850 50  0001 C CNN
 F 3 "https://www.ckswitches.com/media/1422/js.pdf" H 4450 6850 50  0001 C CNN
 	1    4450 6850
 	1    0    0    -1  
@@ -141,7 +141,7 @@ U 1 1 5AE88A57
 P 2550 3000
 F 0 "U1" H 2050 3400 50  0000 C CNN
 F 1 "M24SR16-YMN6T/2" H 2700 2600 50  0000 C CNN
-F 2 "Monero_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm" H 2550 2500 50  0001 C CIN
+F 2 "ByteRub_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm" H 2550 2500 50  0001 C CIN
 F 3 "http://www.st.com/en/nfc/m24sr-series-dynamic-nfc-tags.html" H 2550 2400 50  0001 C CNN
 	1    2550 3000
 	1    0    0    -1  
@@ -152,7 +152,7 @@ U 1 1 5AE88DBD
 P 1250 2550
 F 0 "AE1" H 1300 2800 50  0000 C CNN
 F 1 "Antenna_PCB" H 1300 2750 50  0000 C CNN
-F 2 "Monero_HW:NFCAnt" H 1250 2550 50  0001 C CNN
+F 2 "ByteRub_HW:NFCAnt" H 1250 2550 50  0001 C CNN
 F 3 "" H 1250 2550 50  0001 C CNN
 	1    1250 2550
 	1    0    0    -1  
@@ -312,7 +312,7 @@ U 1 1 5AE948BA
 P 9950 1850
 F 0 "D5" H 9950 1950 50  0000 C CNN
 F 1 "LED" H 9950 1750 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 9950 1850 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 9950 1850 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 9950 1850 50  0001 C CNN
 	1    9950 1850
 	0    -1   -1   0   
@@ -323,7 +323,7 @@ U 1 1 5AE948C0
 P 10350 1850
 F 0 "D7" H 10350 1950 50  0000 C CNN
 F 1 "LED" H 10350 1750 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 10350 1850 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 10350 1850 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 10350 1850 50  0001 C CNN
 	1    10350 1850
 	0    -1   -1   0   
@@ -334,7 +334,7 @@ U 1 1 5AE948C6
 P 9950 2650
 F 0 "D6" H 9950 2750 50  0000 C CNN
 F 1 "LED" H 9950 2550 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 9950 2650 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 9950 2650 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 9950 2650 50  0001 C CNN
 	1    9950 2650
 	0    -1   -1   0   
@@ -345,7 +345,7 @@ U 1 1 5AE948CC
 P 10350 2650
 F 0 "D8" H 10350 2750 50  0000 C CNN
 F 1 "LED" H 10350 2550 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 10350 2650 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 10350 2650 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 10350 2650 50  0001 C CNN
 	1    10350 2650
 	0    -1   -1   0   
@@ -356,7 +356,7 @@ U 1 1 5AE948D2
 P 9300 2250
 F 0 "R3" V 9380 2250 50  0000 C CNN
 F 1 "220" V 9300 2250 50  0000 C CNN
-F 2 "Monero_HW:R_0805" V 9230 2250 50  0001 C CNN
+F 2 "ByteRub_HW:R_0805" V 9230 2250 50  0001 C CNN
 F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-AC_51_RoHS_L_6.pdf" H 9300 2250 50  0001 C CNN
 	1    9300 2250
 	0    1    1    0   
@@ -391,7 +391,7 @@ U 1 1 5AE9516A
 P 7550 4450
 F 0 "D9" H 7550 4550 50  0000 C CNN
 F 1 "LED" H 7550 4350 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 7550 4450 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 7550 4450 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 7550 4450 50  0001 C CNN
 	1    7550 4450
 	0    -1   -1   0   
@@ -402,7 +402,7 @@ U 1 1 5AE95170
 P 7950 4450
 F 0 "D11" H 7950 4550 50  0000 C CNN
 F 1 "LED" H 7950 4350 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 7950 4450 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 7950 4450 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 7950 4450 50  0001 C CNN
 	1    7950 4450
 	0    -1   -1   0   
@@ -413,7 +413,7 @@ U 1 1 5AE95176
 P 7550 5250
 F 0 "D10" H 7550 5350 50  0000 C CNN
 F 1 "LED" H 7550 5150 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 7550 5250 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 7550 5250 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 7550 5250 50  0001 C CNN
 	1    7550 5250
 	0    -1   -1   0   
@@ -424,7 +424,7 @@ U 1 1 5AE9517C
 P 7950 5250
 F 0 "D12" H 7950 5350 50  0000 C CNN
 F 1 "LED" H 7950 5150 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 7950 5250 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 7950 5250 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 7950 5250 50  0001 C CNN
 	1    7950 5250
 	0    -1   -1   0   
@@ -435,7 +435,7 @@ U 1 1 5AE95182
 P 6900 4850
 F 0 "R5" V 6980 4850 50  0000 C CNN
 F 1 "220" V 6900 4850 50  0000 C CNN
-F 2 "Monero_HW:R_0805" V 6830 4850 50  0001 C CNN
+F 2 "ByteRub_HW:R_0805" V 6830 4850 50  0001 C CNN
 F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-AC_51_RoHS_L_6.pdf" H 6900 4850 50  0001 C CNN
 	1    6900 4850
 	0    1    1    0   
@@ -470,7 +470,7 @@ U 1 1 5AE951B5
 P 9950 4450
 F 0 "D13" H 9950 4550 50  0000 C CNN
 F 1 "LED" H 9950 4350 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 9950 4450 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 9950 4450 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 9950 4450 50  0001 C CNN
 	1    9950 4450
 	0    -1   -1   0   
@@ -481,7 +481,7 @@ U 1 1 5AE951BB
 P 10350 4450
 F 0 "D15" H 10350 4550 50  0000 C CNN
 F 1 "LED" H 10350 4350 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 10350 4450 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 10350 4450 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 10350 4450 50  0001 C CNN
 	1    10350 4450
 	0    -1   -1   0   
@@ -492,7 +492,7 @@ U 1 1 5AE951C1
 P 9950 5250
 F 0 "D14" H 9950 5350 50  0000 C CNN
 F 1 "LED" H 9950 5150 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 9950 5250 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 9950 5250 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 9950 5250 50  0001 C CNN
 	1    9950 5250
 	0    -1   -1   0   
@@ -503,7 +503,7 @@ U 1 1 5AE951C7
 P 10350 5250
 F 0 "D16" H 10350 5350 50  0000 C CNN
 F 1 "LED" H 10350 5150 50  0000 C CNN
-F 2 "Monero_HW:LED_1206" H 10350 5250 50  0001 C CNN
+F 2 "ByteRub_HW:LED_1206" H 10350 5250 50  0001 C CNN
 F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-1206_Apr2018.pdf" H 10350 5250 50  0001 C CNN
 	1    10350 5250
 	0    -1   -1   0   
@@ -514,7 +514,7 @@ U 1 1 5AE951CD
 P 9300 4850
 F 0 "R7" V 9380 4850 50  0000 C CNN
 F 1 "220" V 9300 4850 50  0000 C CNN
-F 2 "Monero_HW:R_0805" V 9230 4850 50  0001 C CNN
+F 2 "ByteRub_HW:R_0805" V 9230 4850 50  0001 C CNN
 F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-AC_51_RoHS_L_6.pdf" H 9300 4850 50  0001 C CNN
 	1    9300 4850
 	0    1    1    0   
@@ -551,7 +551,7 @@ U 1 1 5AE966F8
 P 2100 6600
 F 0 "J1" H 2150 6800 50  0000 C CNN
 F 1 "Conn_02x03_Odd_Even" H 1850 6350 50  0000 C CNN
-F 2 "Monero_HW:Tag-Connect_TC2030-IDC-NL" H 2100 6600 50  0001 C CNN
+F 2 "ByteRub_HW:Tag-Connect_TC2030-IDC-NL" H 2100 6600 50  0001 C CNN
 F 3 "" H 2100 6600 50  0001 C CNN
 	1    2100 6600
 	1    0    0    -1  
@@ -578,7 +578,7 @@ U 1 1 5AE9B2EC
 P 2950 1250
 F 0 "L1" H 3250 1750 60  0000 R CNN
 F 1 "Graphbrand" H 2950 750 60  0000 C CNN
-F 2 "Monero_HW:Brandgraphicsfront" H 2950 1250 60  0001 C CNN
+F 2 "ByteRub_HW:Brandgraphicsfront" H 2950 1250 60  0001 C CNN
 F 3 "" H 2950 1250 60  0001 C CNN
 	1    2950 1250
 	1    0    0    -1  
@@ -589,7 +589,7 @@ U 1 1 5AE9B38D
 P 4150 1250
 F 0 "L2" H 4450 1750 60  0000 R CNN
 F 1 "Graphbrand" H 4150 750 60  0000 C CNN
-F 2 "Monero_HW:Brandgraphicsrear" H 4150 1250 60  0001 C CNN
+F 2 "ByteRub_HW:Brandgraphicsrear" H 4150 1250 60  0001 C CNN
 F 3 "" H 4150 1250 60  0001 C CNN
 	1    4150 1250
 	1    0    0    -1  
@@ -622,7 +622,7 @@ U 1 1 5AEA3122
 P 5400 4450
 F 0 "FID1" H 5400 4600 50  0000 C CNN
 F 1 "Fiducial_Passermarke" H 5400 4300 50  0000 C CNN
-F 2 "Monero_HW:Fiducial_1mm_Dia_2mm_Outer" H 5400 4450 50  0001 C CNN
+F 2 "ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer" H 5400 4450 50  0001 C CNN
 F 3 "" H 5400 4450 50  0000 C CNN
 	1    5400 4450
 	1    0    0    -1  
@@ -633,7 +633,7 @@ U 1 1 5AEA31C5
 P 5400 4850
 F 0 "FID2" H 5400 5000 50  0000 C CNN
 F 1 "Fiducial_Passermarke" H 5400 4700 50  0000 C CNN
-F 2 "Monero_HW:Fiducial_1mm_Dia_2mm_Outer" H 5400 4850 50  0001 C CNN
+F 2 "ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer" H 5400 4850 50  0001 C CNN
 F 3 "" H 5400 4850 50  0000 C CNN
 	1    5400 4850
 	1    0    0    -1  
@@ -644,7 +644,7 @@ U 1 1 5AEA3226
 P 5400 5250
 F 0 "FID3" H 5400 5400 50  0000 C CNN
 F 1 "Fiducial_Passermarke" H 5400 5100 50  0000 C CNN
-F 2 "Monero_HW:Fiducial_1mm_Dia_2mm_Outer" H 5400 5250 50  0001 C CNN
+F 2 "ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer" H 5400 5250 50  0001 C CNN
 F 3 "" H 5400 5250 50  0000 C CNN
 	1    5400 5250
 	1    0    0    -1  
@@ -655,7 +655,7 @@ U 1 1 5AEA3289
 P 5400 5650
 F 0 "FID4" H 5400 5800 50  0000 C CNN
 F 1 "Fiducial_Passermarke" H 5400 5500 50  0000 C CNN
-F 2 "Monero_HW:Fiducial_1mm_Dia_2mm_Outer" H 5400 5650 50  0001 C CNN
+F 2 "ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer" H 5400 5650 50  0001 C CNN
 F 3 "" H 5400 5650 50  0000 C CNN
 	1    5400 5650
 	1    0    0    -1  
@@ -666,7 +666,7 @@ U 1 1 5AEA3FB6
 P 5350 1000
 F 0 "LH1" H 5350 1200 50  0000 C CNN
 F 1 "Mounting-Lanyard" H 5350 800 50  0000 C CNN
-F 2 "Monero_HW:LanyardHole_16mm_Pad" H 5350 1000 50  0001 C CNN
+F 2 "ByteRub_HW:LanyardHole_16mm_Pad" H 5350 1000 50  0001 C CNN
 F 3 "" H 5350 1000 50  0000 C CNN
 	1    5350 1000
 	1    0    0    -1  
@@ -677,7 +677,7 @@ U 1 1 5AEA4091
 P 5350 1600
 F 0 "LH2" H 5350 1800 50  0000 C CNN
 F 1 "Mounting-Lanyard" H 5350 1400 50  0000 C CNN
-F 2 "Monero_HW:LanyardHole_16mm_Pad" H 5350 1600 50  0001 C CNN
+F 2 "ByteRub_HW:LanyardHole_16mm_Pad" H 5350 1600 50  0001 C CNN
 F 3 "" H 5350 1600 50  0000 C CNN
 	1    5350 1600
 	1    0    0    -1  
@@ -688,7 +688,7 @@ U 1 1 5AEA5368
 P 4150 3000
 F 0 "U2" H 4650 3400 50  0000 C CNN
 F 1 "M24SR16-YMN6T/2" H 4000 2600 50  0000 C CNN
-F 2 "Monero_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm" H 4150 2500 50  0001 C CIN
+F 2 "ByteRub_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm" H 4150 2500 50  0001 C CIN
 F 3 "http://www.st.com/en/nfc/m24sr-series-dynamic-nfc-tags.html" H 4150 2400 50  0001 C CNN
 	1    4150 3000
 	-1   0    0    -1  
@@ -945,7 +945,7 @@ U 1 1 5AE9B792
 P 2100 7200
 F 0 "J2" H 2150 7400 50  0000 C CNN
 F 1 "Conn_02x03_Odd_Even" H 1850 6950 50  0000 C CNN
-F 2 "Monero_HW:Pin_Header_Straight_2x03_Pitch2.54mm" H 2100 7200 50  0001 C CNN
+F 2 "ByteRub_HW:Pin_Header_Straight_2x03_Pitch2.54mm" H 2100 7200 50  0001 C CNN
 F 3 "" H 2100 7200 50  0001 C CNN
 	1    2100 7200
 	1    0    0    -1  

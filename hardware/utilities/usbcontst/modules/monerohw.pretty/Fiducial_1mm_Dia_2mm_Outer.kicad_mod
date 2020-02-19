@@ -1,4 +1,4 @@
-(module Monero_HW:Fiducial_1mm_Dia_2mm_Outer (layer F.Cu) (tedit 59FE003E)
+(module ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer (layer F.Cu) (tedit 59FE003E)
   (descr "Circular Fiducial, 1mm bare copper; 2mm keepout (Level A)")
   (tags marker)
   (attr virtual)

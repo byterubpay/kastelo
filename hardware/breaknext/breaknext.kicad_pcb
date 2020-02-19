@@ -17,8 +17,8 @@
     (title "Breaknext Wallet Exension")
     (date 2018-01-10)
     (rev 0.7.5)
-    (company "The Monero Project, Hardware Team")
-    (comment 1 "Copyright © 2018, The Monero Project")
+    (company "The ByteRub Project, Hardware Team")
+    (comment 1 "Copyright © 2018, The ByteRub Project")
     (comment 2 "Fulfilling the developer edition role")
     (comment 3 "Pending quality assurance testing")
     (comment 4 "Warning, untested prototype!")
@@ -179,7 +179,7 @@
     (add_net "Net-(J6-Pad1)")
   )
 
-  (module Monero_Local:MountingHole_3mm_Pad_Via (layer F.Cu) (tedit 5ABA614C) (tstamp 5A7F7C3F)
+  (module ByteRub_Local:MountingHole_3mm_Pad_Via (layer F.Cu) (tedit 5ABA614C) (tstamp 5A7F7C3F)
     (at 145.72 67.04)
     (descr "Mounting Hole 3mm")
     (tags "mounting hole 3mm")
@@ -216,7 +216,7 @@
       (net 1 GND))
   )
 
-  (module Monero_Local:MountingHole_3mm_Pad_Via (layer F.Cu) (tedit 5ABA6140) (tstamp 5A7F7C30)
+  (module ByteRub_Local:MountingHole_3mm_Pad_Via (layer F.Cu) (tedit 5ABA6140) (tstamp 5A7F7C30)
     (at 107.62 67.04)
     (descr "Mounting Hole 3mm")
     (tags "mounting hole 3mm")
@@ -253,7 +253,7 @@
       (net 1 GND))
   )
 
-  (module Monero_Local:MountingHole_3mm_Pad_Via (layer F.Cu) (tedit 5ABA6154) (tstamp 5A7F7C21)
+  (module ByteRub_Local:MountingHole_3mm_Pad_Via (layer F.Cu) (tedit 5ABA6154) (tstamp 5A7F7C21)
     (at 125.4 117.84)
     (descr "Mounting Hole 3mm")
     (tags "mounting hole 3mm")
@@ -286,7 +286,7 @@
       (net 1 GND))
   )
 
-  (module Monero_Local:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 5ABA6111) (tstamp 5A7F7AC2)
+  (module ByteRub_Local:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 5ABA6111) (tstamp 5A7F7AC2)
     (at 102 66)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
@@ -303,7 +303,7 @@
       (net 7 "Net-(FID1-Pad~)") (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Monero_Local:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 5ABA60FC) (tstamp 5A7F7AC8)
+  (module ByteRub_Local:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 5ABA60FC) (tstamp 5A7F7AC8)
     (at 151.34 126)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
@@ -320,7 +320,7 @@
       (net 8 "Net-(FID2-Pad~)") (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Monero_Local:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom (layer F.Cu) (tedit 5A80C4E8) (tstamp 5A7F7ACE)
+  (module ByteRub_Local:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom (layer F.Cu) (tedit 5A80C4E8) (tstamp 5A7F7ACE)
     (at 102 66)
     (descr "Circular Fiducial, 1mm bare copper bottom; 2.54mm keepout")
     (tags marker)
@@ -337,7 +337,7 @@
       (net 9 "Net-(FID3-Pad~)") (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Monero_Local:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom (layer F.Cu) (tedit 5ABA60F1) (tstamp 5A7F7AD4)
+  (module ByteRub_Local:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom (layer F.Cu) (tedit 5ABA60F1) (tstamp 5A7F7AD4)
     (at 151.34 126)
     (descr "Circular Fiducial, 1mm bare copper bottom; 2.54mm keepout")
     (tags marker)
@@ -354,13 +354,13 @@
       (net 10 "Net-(FID4-Pad~)") (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Monero_Local:MoneroCircleCombi (layer B.Cu) (tedit 0) (tstamp 5A7F7C12)
+  (module ByteRub_Local:ByteRubCircleCombi (layer B.Cu) (tedit 0) (tstamp 5A7F7C12)
     (at 143.25 78 180)
     (path /5A7B31DF)
     (fp_text reference LOGO1 (at 0 0 180) (layer B.SilkS) hide
       (effects (font (thickness 0.3)) (justify mirror))
     )
-    (fp_text value Monerologo-mid (at 0.75 0 180) (layer B.SilkS) hide
+    (fp_text value ByteRublogo-mid (at 0.75 0 180) (layer B.SilkS) hide
       (effects (font (thickness 0.3)) (justify mirror))
     )
     (fp_poly (pts (xy -1.226062 -1.369218) (xy -0.86627 -1.732557) (xy -0.542874 -2.054372) (xy -0.272588 -2.31842)
@@ -419,7 +419,7 @@
       (xy -2.187393 5.584652) (xy -1.270442 5.872224) (xy -0.340435 6.012336) (xy 0.587929 6.006769)) (layer B.Mask) (width 0.01))
   )
 
-  (module Monero_Local:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer B.Cu) (tedit 5ABA6126) (tstamp 5AAE277D)
+  (module ByteRub_Local:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer B.Cu) (tedit 5ABA6126) (tstamp 5AAE277D)
     (at 151.34 66)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
@@ -435,7 +435,7 @@
       (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Monero_Local:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 5ABA6105) (tstamp 5ACB32F3)
+  (module ByteRub_Local:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 5ABA6105) (tstamp 5ACB32F3)
     (at 151.34 66)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
@@ -451,7 +451,7 @@
       (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Monero_Local:Socket_Strip_Straight_1x20_Pitch2.54mm (layer F.Cu) (tedit 5ABA608A) (tstamp 5A7F7BF6)
+  (module ByteRub_Local:Socket_Strip_Straight_1x20_Pitch2.54mm (layer F.Cu) (tedit 5ABA608A) (tstamp 5A7F7BF6)
     (at 102.54 120.38 180)
     (descr "Through hole straight socket strip, 1x20, 2.54mm pitch, single row")
     (tags "Through hole socket strip THT 1x20 2.54mm single row")
@@ -523,7 +523,7 @@
     )
   )
 
-  (module Monero_Local:Socket_Strip_Straight_1x20_Pitch2.54mm (layer F.Cu) (tedit 5ABA60D0) (tstamp 5A7F7AFA)
+  (module ByteRub_Local:Socket_Strip_Straight_1x20_Pitch2.54mm (layer F.Cu) (tedit 5ABA60D0) (tstamp 5A7F7AFA)
     (at 150.8 120.38 180)
     (descr "Through hole straight socket strip, 1x20, 2.54mm pitch, single row")
     (tags "Through hole socket strip THT 1x20 2.54mm single row")
@@ -595,7 +595,7 @@
     )
   )
 
-  (module Monero_Local:Socket_Strip_Straight_1x14_Pitch2.54mm (layer F.Cu) (tedit 5ABA60DA) (tstamp 5A7F7BB8)
+  (module ByteRub_Local:Socket_Strip_Straight_1x14_Pitch2.54mm (layer F.Cu) (tedit 5ABA60DA) (tstamp 5A7F7BB8)
     (at 102.54 125.46 90)
     (descr "Through hole straight socket strip, 1x14, 2.54mm pitch, single row")
     (tags "Through hole socket strip THT 1x14 2.54mm single row")
@@ -655,7 +655,7 @@
     )
   )
 
-  (module Monero_Local:JST_PH_B2B-PH-K_02x2.00mm_Straight (layer F.Cu) (tedit 5ABA60E3) (tstamp 5A7F7B32)
+  (module ByteRub_Local:JST_PH_B2B-PH-K_02x2.00mm_Straight (layer F.Cu) (tedit 5ABA60E3) (tstamp 5A7F7B32)
     (at 133.25 120.5)
     (descr "JST PH series connector, B2B-PH-K, top entry type, through hole, Datasheet: http://www.jst-mfg.com/product/pdf/eng/ePH.pdf")
     (tags "connector jst ph")
@@ -715,7 +715,7 @@
     )
   )
 
-  (module Monero_Local:microSD_Card_Receptacle_Hirose_DM3AT-SF-PEJM5 (layer F.Cu) (tedit 588F5AF6) (tstamp 5ACB7716)
+  (module ByteRub_Local:microSD_Card_Receptacle_Hirose_DM3AT-SF-PEJM5 (layer F.Cu) (tedit 588F5AF6) (tstamp 5ACB7716)
     (at 113.5 112)
     (descr "MicroSD card socket")
     (tags "MicroSD card socket")

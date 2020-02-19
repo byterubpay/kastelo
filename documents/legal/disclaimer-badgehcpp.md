@@ -2,7 +2,7 @@
 
 ## 1. STATUS
 
-The Monero Hardware Team (“MHT”) is a loose collective of individuals that aim to provide hardware at HCPP 18. There is no centralized authority, entity, or institution that controls, dictates, regulates, or makes decisions for, or on behalf of, any member of the collective. It is not the intent of MHT to form any partnership, joint venture, agency, employer-employee or fiduciary relationship.
+The ByteRub Hardware Team (“MHT”) is a loose collective of individuals that aim to provide hardware at HCPP 18. There is no centralized authority, entity, or institution that controls, dictates, regulates, or makes decisions for, or on behalf of, any member of the collective. It is not the intent of MHT to form any partnership, joint venture, agency, employer-employee or fiduciary relationship.
 
 ## 2. DELIVERY
 

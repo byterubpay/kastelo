@@ -1,11 +1,11 @@
-(module Monero_HW:Moneroball_15mm (layer F.Cu) (tedit 5C29E498)
+(module ByteRub_HW:ByteRubball_15mm (layer F.Cu) (tedit 5C29E498)
   (descr https://getmonero.org/)
-  (tags Monero)
+  (tags ByteRub)
   (attr virtual)
   (fp_text reference LOGO* (at 0 -9) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )
-  (fp_text value Moneroball (at 0 9) (layer F.SilkS) hide
+  (fp_text value ByteRubball (at 0 9) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )
   (fp_poly (pts (xy 3.255691 3.887183) (xy 4.828905 3.887183) (xy 5.074678 3.887215) (xy 5.293858 3.887323)

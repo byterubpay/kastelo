@@ -1,4 +1,4 @@
-(module Monero_Logos:MoneroTextSilk (layer F.Cu) (tedit 0)
+(module ByteRub_Logos:ByteRubTextSilk (layer F.Cu) (tedit 0)
   (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
     (effects (font (thickness 0.3)))
   )

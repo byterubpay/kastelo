@@ -1,4 +1,4 @@
-(module Monero_HW:R_0805 (layer F.Cu) (tedit 58AADA8F)
+(module ByteRub_HW:R_0805 (layer F.Cu) (tedit 58AADA8F)
   (descr "Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)")
   (tags "resistor 0805")
   (attr smd)

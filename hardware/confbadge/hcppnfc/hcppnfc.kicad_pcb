@@ -17,8 +17,8 @@
     (title "HCPP NFC Hardware Badge")
     (date 2019-04-16)
     (rev 0.8.1)
-    (company "The Monero Project, Hardware Team")
-    (comment 1 "Copyright © 2019, The Monero Project")
+    (company "The ByteRub Project, Hardware Team")
+    (comment 1 "Copyright © 2019, The ByteRub Project")
     (comment 2 "Fulfilling the fourth annual conference badge")
     (comment 3 "Pending quality assurance testing")
     (comment 4 "Warning, untested prototype!")
@@ -146,7 +146,7 @@
     (add_net VCC)
   )
 
-  (module Monero_HW:HCPPNewordtri (layer F.Cu) (tedit 0) (tstamp 5B85471F)
+  (module ByteRub_HW:HCPPNewordtri (layer F.Cu) (tedit 0) (tstamp 5B85471F)
     (at 140 90)
     (fp_text reference GFX* (at 0 0) (layer F.SilkS) hide
       (effects (font (thickness 0.3)))
@@ -2337,7 +2337,7 @@
       (xy 12.671778 19.120556)) (layer F.SilkS) (width 0.01))
   )
 
-  (module Monero_HW:NFCAntennatall (layer B.Cu) (tedit 5B853947) (tstamp 5B856244)
+  (module ByteRub_HW:NFCAntennatall (layer B.Cu) (tedit 5B853947) (tstamp 5B856244)
     (at 140 93 180)
     (path /5B858117)
     (fp_text reference AE1 (at 0 1 180) (layer B.SilkS) hide
@@ -3218,7 +3218,7 @@
       (net 2 /ANTCON))
   )
 
-  (module Monero_HW:HCPPNewordconf (layer F.Cu) (tedit 0) (tstamp 5B8DDAB2)
+  (module ByteRub_HW:HCPPNewordconf (layer F.Cu) (tedit 0) (tstamp 5B8DDAB2)
     (at 158.25 83.5)
     (fp_text reference GFX* (at 0 0) (layer F.SilkS) hide
       (effects (font (thickness 0.3)))
@@ -3487,7 +3487,7 @@
       (xy -4.544115 -10.237097) (xy -4.480005 -10.249719) (xy -4.433309 -10.242211)) (layer F.SilkS) (width 0.01))
   )
 
-  (module Monero_HW:HCPPNewordinst (layer F.Cu) (tedit 0) (tstamp 5B8547F9)
+  (module ByteRub_HW:HCPPNewordinst (layer F.Cu) (tedit 0) (tstamp 5B8547F9)
     (at 109 107)
     (fp_text reference GFX* (at 0 0) (layer F.SilkS) hide
       (effects (font (thickness 0.3)))
@@ -3969,7 +3969,7 @@
       (xy 4.757835 -8.636999) (xy 4.761071 -8.636709)) (layer F.SilkS) (width 0.01))
   )
 
-  (module Monero_HW:Fiducial_1mm_Dia_2mm_Outer (layer F.Cu) (tedit 5B856408) (tstamp 5B856249)
+  (module ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer (layer F.Cu) (tedit 5B856408) (tstamp 5B856249)
     (at 145 55)
     (descr "Circular Fiducial, 1mm bare copper; 2mm keepout (Level A)")
     (tags marker)
@@ -3990,7 +3990,7 @@
       (net 3 "Net-(FID1-Pad~)") (solder_mask_margin 0.5) (clearance 0.5))
   )
 
-  (module Monero_HW:Fiducial_1mm_Dia_2mm_Outer (layer F.Cu) (tedit 5B856412) (tstamp 5B85624E)
+  (module ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer (layer F.Cu) (tedit 5B856412) (tstamp 5B85624E)
     (at 102.5 116)
     (descr "Circular Fiducial, 1mm bare copper; 2mm keepout (Level A)")
     (tags marker)
@@ -4011,7 +4011,7 @@
       (net 4 "Net-(FID2-Pad~)") (solder_mask_margin 0.5) (clearance 0.5))
   )
 
-  (module Monero_HW:Fiducial_1mm_Dia_2mm_Outer (layer F.Cu) (tedit 5B856416) (tstamp 5B856253)
+  (module ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer (layer F.Cu) (tedit 5B856416) (tstamp 5B856253)
     (at 177.5 116)
     (descr "Circular Fiducial, 1mm bare copper; 2mm keepout (Level A)")
     (tags marker)
@@ -4032,7 +4032,7 @@
       (net 5 "Net-(FID3-Pad~)") (solder_mask_margin 0.5) (clearance 0.5))
   )
 
-  (module Monero_HW:MountingHole_4.3mm_M4_ISO14580_Pad (layer F.Cu) (tedit 5B856435) (tstamp 5B856258)
+  (module ByteRub_HW:MountingHole_4.3mm_M4_ISO14580_Pad (layer F.Cu) (tedit 5B856435) (tstamp 5B856258)
     (at 140 55)
     (descr "Mounting Hole 4.3mm, M4, ISO14580")
     (tags "mounting hole 4.3mm m4 iso14580")
@@ -4049,7 +4049,7 @@
       (net 6 GND))
   )
 
-  (module Monero_HW:SW_SPST_PTS645 (layer F.Cu) (tedit 5B86E405) (tstamp 5B856274)
+  (module ByteRub_HW:SW_SPST_PTS645 (layer F.Cu) (tedit 5B86E405) (tstamp 5B856274)
     (at 149.75 67.5 120)
     (descr "C&K Components SPST SMD PTS645 Series 6mm Tact Switch")
     (tags "SPST Button Switch")
@@ -4096,7 +4096,7 @@
     )
   )
 
-  (module Monero_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm (layer F.Cu) (tedit 5B86E2D8) (tstamp 5B8562AD)
+  (module ByteRub_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm (layer F.Cu) (tedit 5B86E2D8) (tstamp 5B8562AD)
     (at 134.5 60.5 330)
     (descr "8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SOIC 1.27")
@@ -4150,7 +4150,7 @@
     )
   )
 
-  (module Monero_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm (layer F.Cu) (tedit 5B86E331) (tstamp 5B8562B9)
+  (module ByteRub_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm (layer F.Cu) (tedit 5B86E331) (tstamp 5B8562B9)
     (at 145.5 60.5 210)
     (descr "8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SOIC 1.27")
@@ -4204,7 +4204,7 @@
     )
   )
 
-  (module Monero_HW:SW_SPST_K21102SP (layer F.Cu) (tedit 5B86E2F8) (tstamp 5B85626C)
+  (module ByteRub_HW:SW_SPST_K21102SP (layer F.Cu) (tedit 5B86E2F8) (tstamp 5B85626C)
     (at 130 68 240)
     (descr "Hro Electronics SPST SMD K2-1102SP-C4SC-04 6mm Tact Switch")
     (tags "SPST Button Switch")
@@ -4247,7 +4247,7 @@
     )
   )
 
-  (module Monero_HW:HCPPSponsors (layer B.Cu) (tedit 0) (tstamp 5B98F541)
+  (module ByteRub_HW:HCPPSponsors (layer B.Cu) (tedit 0) (tstamp 5B98F541)
     (at 140 88 180)
     (fp_text reference LOGO* (at 0 0 180) (layer B.SilkS) hide
       (effects (font (thickness 0.3)) (justify mirror))

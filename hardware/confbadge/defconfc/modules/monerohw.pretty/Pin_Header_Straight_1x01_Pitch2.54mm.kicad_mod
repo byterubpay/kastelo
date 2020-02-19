@@ -1,4 +1,4 @@
-(module Monero_HW:Pin_Header_Straight_1x01_Pitch2.54mm (layer F.Cu) (tedit 5A940460)
+(module ByteRub_HW:Pin_Header_Straight_1x01_Pitch2.54mm (layer F.Cu) (tedit 5A940460)
   (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
   (tags "Through hole pin header THT 1x01 2.54mm single row")
   (fp_text reference TP1 (at 0 -2.25) (layer F.SilkS)

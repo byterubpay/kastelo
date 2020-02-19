@@ -40,8 +40,8 @@ The STM32 based Monezor codebase is preserved in the _revstm_ branch.
 
 ## Glossary
 
-- **Consumer edition:** One of two Monero dedicated hardware wallet editions, integrating a well tested subset of features from the developer edition.
-- **Developer edition:** One of two Monero dedicated hardware wallet editions, including all features. For example, the developer edition may contain experimental intrusion detection while the consumer edition may not (unless the features are proven stable and useful.)
+- **Consumer edition:** One of two ByteRub dedicated hardware wallet editions, integrating a well tested subset of features from the developer edition.
+- **Developer edition:** One of two ByteRub dedicated hardware wallet editions, including all features. For example, the developer edition may contain experimental intrusion detection while the consumer edition may not (unless the features are proven stable and useful.)
 - **Monezor:** The model name associated with the consumer edition.
 - **Breakneck:** The model name associated with the developer edition.
 - **Julian Candy:** A code name corresponding with a range of hardware revisions including 0.2.0.

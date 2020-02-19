@@ -7,11 +7,11 @@
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>DefcoNFC Hardware Badge</title>
-        <company>The Monero Project, Hardware Team</company>
+        <company>The ByteRub Project, Hardware Team</company>
         <rev>1.0.0</rev>
         <date>2018-06-22</date>
         <source>defconfc.sch</source>
-        <comment number="1" value="Copyright © 2018, The Monero Project"/>
+        <comment number="1" value="Copyright © 2018, The ByteRub Project"/>
         <comment number="2" value="Fulfilling the first annual village role"/>
         <comment number="3" value="Pending quality assurance testing"/>
         <comment number="4" value="Warning, untested prototype!"/>
@@ -21,84 +21,84 @@
   <components>
     <comp ref="U3">
       <value>ATTINY13A-SSU</value>
-      <footprint>Monero_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <footprint>ByteRub_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
       <libsource lib="defconfc" part="ATTINY13A-SSU"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE871D6</tstamp>
     </comp>
     <comp ref="D1">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE87290</tstamp>
     </comp>
     <comp ref="D3">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE8730F</tstamp>
     </comp>
     <comp ref="D2">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE8733A</tstamp>
     </comp>
     <comp ref="D4">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE8735B</tstamp>
     </comp>
     <comp ref="BT1">
       <value>Battery_Cell</value>
-      <footprint>Monero_HW:Keystone_3034_1x2032-Coincell</footprint>
+      <footprint>ByteRub_HW:Keystone_3034_1x2032-Coincell</footprint>
       <libsource lib="defconfc" part="Battery_Cell"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE874CA</tstamp>
     </comp>
     <comp ref="R1">
       <value>220</value>
-      <footprint>Monero_HW:R_0805</footprint>
+      <footprint>ByteRub_HW:R_0805</footprint>
       <libsource lib="defconfc" part="R"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE8755B</tstamp>
     </comp>
     <comp ref="SW3">
       <value>SW_SPST</value>
-      <footprint>Monero_HW:SW_SPST_PTS645</footprint>
+      <footprint>ByteRub_HW:SW_SPST_PTS645</footprint>
       <libsource lib="defconfc" part="SW_SPST"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE8772D</tstamp>
     </comp>
     <comp ref="SW1">
       <value>SW_SPST</value>
-      <footprint>Monero_HW:SW_SPST_PTS645</footprint>
+      <footprint>ByteRub_HW:SW_SPST_PTS645</footprint>
       <libsource lib="defconfc" part="SW_SPST"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE8ADFB</tstamp>
     </comp>
     <comp ref="SW2">
       <value>SW_SPST</value>
-      <footprint>Monero_HW:SW_SPST_PTS645</footprint>
+      <footprint>ByteRub_HW:SW_SPST_PTS645</footprint>
       <libsource lib="defconfc" part="SW_SPST"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE8AEBA</tstamp>
     </comp>
     <comp ref="SW4">
       <value>SW_SPDT</value>
-      <footprint>Monero_HW:SW_SPDT_CK-JS102011SAQN</footprint>
+      <footprint>ByteRub_HW:SW_SPDT_CK-JS102011SAQN</footprint>
       <libsource lib="defconfc" part="SW_SPDT"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE8AF07</tstamp>
     </comp>
     <comp ref="U1">
       <value>M24SR16-YMN6T/2</value>
-      <footprint>Monero_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <footprint>ByteRub_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
       <datasheet>http://www.st.com/en/nfc/m24sr-series-dynamic-nfc-tags.html</datasheet>
       <libsource lib="defconfc" part="M24SR16-YMN6T/2"/>
       <sheetpath names="/" tstamps="/"/>
@@ -106,182 +106,182 @@
     </comp>
     <comp ref="AE1">
       <value>Antenna_PCB</value>
-      <footprint>Monero_HW:NFCAnt</footprint>
+      <footprint>ByteRub_HW:NFCAnt</footprint>
       <libsource lib="defconfc" part="Antenna_Loop"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE88DBD</tstamp>
     </comp>
     <comp ref="D5">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE948BA</tstamp>
     </comp>
     <comp ref="D7">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE948C0</tstamp>
     </comp>
     <comp ref="D6">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE948C6</tstamp>
     </comp>
     <comp ref="D8">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE948CC</tstamp>
     </comp>
     <comp ref="R3">
       <value>220</value>
-      <footprint>Monero_HW:R_0805</footprint>
+      <footprint>ByteRub_HW:R_0805</footprint>
       <libsource lib="defconfc" part="R"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE948D2</tstamp>
     </comp>
     <comp ref="D9">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE9516A</tstamp>
     </comp>
     <comp ref="D11">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE95170</tstamp>
     </comp>
     <comp ref="D10">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE95176</tstamp>
     </comp>
     <comp ref="D12">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE9517C</tstamp>
     </comp>
     <comp ref="R5">
       <value>220</value>
-      <footprint>Monero_HW:R_0805</footprint>
+      <footprint>ByteRub_HW:R_0805</footprint>
       <libsource lib="defconfc" part="R"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE95182</tstamp>
     </comp>
     <comp ref="D13">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE951B5</tstamp>
     </comp>
     <comp ref="D15">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE951BB</tstamp>
     </comp>
     <comp ref="D14">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE951C1</tstamp>
     </comp>
     <comp ref="D16">
       <value>LED</value>
-      <footprint>Monero_HW:LED_1206</footprint>
+      <footprint>ByteRub_HW:LED_1206</footprint>
       <libsource lib="defconfc" part="LED"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE951C7</tstamp>
     </comp>
     <comp ref="R7">
       <value>220</value>
-      <footprint>Monero_HW:R_0805</footprint>
+      <footprint>ByteRub_HW:R_0805</footprint>
       <libsource lib="defconfc" part="R"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE951CD</tstamp>
     </comp>
     <comp ref="J1">
       <value>Conn_02x03_Odd_Even</value>
-      <footprint>Monero_HW:Tag-Connect_TC2030-IDC-NL</footprint>
+      <footprint>ByteRub_HW:Tag-Connect_TC2030-IDC-NL</footprint>
       <libsource lib="defconfc" part="Conn_02x03_Odd_Even"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE966F8</tstamp>
     </comp>
     <comp ref="L1">
       <value>Graphbrand</value>
-      <footprint>Monero_HW:Brandgraphicsfront</footprint>
+      <footprint>ByteRub_HW:Brandgraphicsfront</footprint>
       <libsource lib="defconfc" part="Graphbrand"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE9B2EC</tstamp>
     </comp>
     <comp ref="L2">
       <value>Graphbrand</value>
-      <footprint>Monero_HW:Brandgraphicsrear</footprint>
+      <footprint>ByteRub_HW:Brandgraphicsrear</footprint>
       <libsource lib="defconfc" part="Graphbrand"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE9B38D</tstamp>
     </comp>
     <comp ref="FID1">
       <value>Fiducial_Passermarke</value>
-      <footprint>Monero_HW:Fiducial_1mm_Dia_2mm_Outer</footprint>
+      <footprint>ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer</footprint>
       <libsource lib="defconfc" part="Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AEA3122</tstamp>
     </comp>
     <comp ref="FID2">
       <value>Fiducial_Passermarke</value>
-      <footprint>Monero_HW:Fiducial_1mm_Dia_2mm_Outer</footprint>
+      <footprint>ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer</footprint>
       <libsource lib="defconfc" part="Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AEA31C5</tstamp>
     </comp>
     <comp ref="FID3">
       <value>Fiducial_Passermarke</value>
-      <footprint>Monero_HW:Fiducial_1mm_Dia_2mm_Outer</footprint>
+      <footprint>ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer</footprint>
       <libsource lib="defconfc" part="Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AEA3226</tstamp>
     </comp>
     <comp ref="FID4">
       <value>Fiducial_Passermarke</value>
-      <footprint>Monero_HW:Fiducial_1mm_Dia_2mm_Outer</footprint>
+      <footprint>ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer</footprint>
       <libsource lib="defconfc" part="Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AEA3289</tstamp>
     </comp>
     <comp ref="LH1">
       <value>Mounting-Lanyard</value>
-      <footprint>Monero_HW:LanyardHole_16mm_Pad</footprint>
+      <footprint>ByteRub_HW:LanyardHole_16mm_Pad</footprint>
       <libsource lib="defconfc" part="DUMMY_MOUNTING-HOLE_RevE_Date22jun2010"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AEA3FB6</tstamp>
     </comp>
     <comp ref="LH2">
       <value>Mounting-Lanyard</value>
-      <footprint>Monero_HW:LanyardHole_16mm_Pad</footprint>
+      <footprint>ByteRub_HW:LanyardHole_16mm_Pad</footprint>
       <libsource lib="defconfc" part="DUMMY_MOUNTING-HOLE_RevE_Date22jun2010"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AEA4091</tstamp>
     </comp>
     <comp ref="U2">
       <value>M24SR16-YMN6T/2</value>
-      <footprint>Monero_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <footprint>ByteRub_HW:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
       <datasheet>http://www.st.com/en/nfc/m24sr-series-dynamic-nfc-tags.html</datasheet>
       <libsource lib="defconfc" part="M24SR16-YMN6T/2"/>
       <sheetpath names="/" tstamps="/"/>
@@ -289,7 +289,7 @@
     </comp>
     <comp ref="J2">
       <value>Conn_02x03_Odd_Even</value>
-      <footprint>Monero_HW:Pin_Header_Straight_2x03_Pitch2.54mm</footprint>
+      <footprint>ByteRub_HW:Pin_Header_Straight_2x03_Pitch2.54mm</footprint>
       <libsource lib="defconfc" part="Conn_02x03_Odd_Even"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5AE9B792</tstamp>

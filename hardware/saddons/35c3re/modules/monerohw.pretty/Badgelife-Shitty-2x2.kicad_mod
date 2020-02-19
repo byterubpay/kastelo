@@ -1,4 +1,4 @@
-(module Monero_HW:Badgelife-Shitty-2x2 (layer F.Cu) (tedit 5B990DA9)
+(module ByteRub_HW:Badgelife-Shitty-2x2 (layer F.Cu) (tedit 5B990DA9)
   (descr "Through hole angled pin header, 2x02, 2.54mm pitch, 6mm pin length, double rows")
   (tags "Through hole angled pin header THT 2x02 2.54mm double row")
   (fp_text reference J* (at 0 0) (layer F.Fab)

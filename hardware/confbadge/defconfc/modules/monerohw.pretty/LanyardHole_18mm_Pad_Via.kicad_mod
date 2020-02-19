@@ -1,4 +1,4 @@
-(module Monero_HW:LanyardHole_18mm_Pad_Via (layer F.Cu) (tedit 5AE9CF55)
+(module ByteRub_HW:LanyardHole_18mm_Pad_Via (layer F.Cu) (tedit 5AE9CF55)
   (descr "Lanyard Slot 18mm")
   (tags "lanyard slot 18mm")
   (attr virtual)

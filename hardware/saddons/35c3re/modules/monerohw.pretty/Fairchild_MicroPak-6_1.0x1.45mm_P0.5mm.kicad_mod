@@ -1,4 +1,4 @@
-(module Monero_HW:Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm (layer F.Cu) (tedit 5A02F1D8)
+(module ByteRub_HW:Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm (layer F.Cu) (tedit 5A02F1D8)
   (descr "Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm https://www.nxp.com/docs/en/application-note/AN10343.pdff")
   (tags "Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm")
   (attr smd)

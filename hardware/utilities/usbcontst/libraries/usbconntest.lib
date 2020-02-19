@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF USB_C_Plug P 0 40 Y Y 1 F N
 F0 "P" -400 1450 50 H V L CNN
 F1 "USB_C_Plug" 400 1450 50 H V R CNN
-F2 "Monero_HW:USB_C_Plug_Molex_105444" 150 0 50 H I C CNN
+F2 "ByteRub_HW:USB_C_Plug_Molex_105444" 150 0 50 H I C CNN
 F3 "https://www.molex.com/molex/products/datasheet.jsp?part=active/1054440001_IO_CONNECTORS.xml" 150 0 50 H I C CNN
 $FPLIST
  USB*C*Plug*
@@ -82,7 +82,7 @@ ENDDEF
 DEF CONN_01X24 J 0 40 Y N 1 F N
 F0 "J" 0 1250 50 H V C CNN
 F1 "CONN_01X24" 100 0 50 V V C CNN
-F2 "Monero_HW:Pin_Header_Straight_1x24_Pitch2.54mm" 0 0 50 H I C CNN
+F2 "ByteRub_HW:Pin_Header_Straight_1x24_Pitch2.54mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  Pin_Header_Straight_1X*
@@ -148,7 +148,7 @@ ENDDEF
 DEF SW_SPST SW 0 0 Y N 1 F N
 F0 "SW" 0 125 50 H V C CNN
 F1 "SW_SPST" 0 -100 50 H V C CNN
-F2 "Monero_HW:SW_SPST_K21102SP" 0 0 50 H I C CNN
+F2 "ByteRub_HW:SW_SPST_K21102SP" 0 0 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Korean-Hroparts-Elec-K2-1102SP-C4SC-04_C127509.pdf" 0 0 50 H I C CNN
 DRAW
 C -80 0 20 0 0 0 N
@@ -164,7 +164,7 @@ ENDDEF
 DEF Battery_Cell BT 0 0 N N 1 F N
 F0 "BT" 100 100 50 H V L CNN
 F1 "Battery_Cell" 100 0 50 H V L CNN
-F2 "Monero_HW:Keystone_3008_1x2450-CoinCell" 0 60 50 V I C CNN
+F2 "ByteRub_HW:Keystone_3008_1x2450-CoinCell" 0 60 50 V I C CNN
 F3 "http://www.keyelco.com/product.cfm/product_id/786/" 0 60 50 V I C CNN
 DRAW
 S -90 70 90 60 0 1 0 F
@@ -183,7 +183,7 @@ ENDDEF
 DEF Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011 FID 0 0 N N 1 F N
 F0 "FID" 0 150 50 H V C CNN
 F1 "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011" 0 -150 50 H V C CNN
-F2 "Monero_HW:Fiducial_1mm_Dia_2mm_Outer" 0 0 50 H V C CNN
+F2 "ByteRub_HW:Fiducial_1mm_Dia_2mm_Outer" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW
 C 0 0 100 0 1 0 N

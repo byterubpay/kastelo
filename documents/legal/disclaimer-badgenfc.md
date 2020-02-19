@@ -2,11 +2,11 @@
 
 ## 1. STATUS
 
-The Monero Village (“MV”) is a loose collective of individuals that aim to represent the Monero Project at DefCon 26. There is no centralized authority, entity, or institution that controls, dictates, regulates, or makes decisions for, or on behalf of, any member of the collective. It is not the intent of MV to form any partnership, joint venture, agency, employer-employee or fiduciary relationship.
+The ByteRub Village (“MV”) is a loose collective of individuals that aim to represent the ByteRub Project at DefCon 26. There is no centralized authority, entity, or institution that controls, dictates, regulates, or makes decisions for, or on behalf of, any member of the collective. It is not the intent of MV to form any partnership, joint venture, agency, employer-employee or fiduciary relationship.
 
 ## 2. DELIVERY
 
-MV delivers a Monero DefCon Badge (“BADGE”) that is constructed of open electrical components to Users on condition that Users voluntarily and knowingly assume the risks associated with handling such components, which could potentially lead to shock, fire, serious injury, and/or damage to property. Users undertake to take all necessary measures to minimize these risks. The BADGE is an unfinished product to be used for experimentation and does not have any specific intended use case.
+MV delivers a ByteRub DefCon Badge (“BADGE”) that is constructed of open electrical components to Users on condition that Users voluntarily and knowingly assume the risks associated with handling such components, which could potentially lead to shock, fire, serious injury, and/or damage to property. Users undertake to take all necessary measures to minimize these risks. The BADGE is an unfinished product to be used for experimentation and does not have any specific intended use case.
 
 ## 3. DISCLAIMER
 
