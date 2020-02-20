@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source hardware/saddons/35c3re/35C3XMR.sch)
+    (source hardware/saddons/35c3re/35C3BTR.sch)
     (date "Mo 31 Dez 2018 13:00:20 CET")
     (tool "Eeschema 5.0.0+dfsg1-2")
     (sheet (number 1) (name /) (tstamps /)
@@ -9,7 +9,7 @@
         (company "The ByteRub Project, Hardware Team")
         (rev 0.8.5)
         (date 2018-12-31)
-        (source 35C3XMR.sch)
+        (source 35C3BTR.sch)
         (comment (number 1) (value "Copyright © 2018, The ByteRub Project"))
         (comment (number 2) (value "Releasing a betagrade test edition"))
         (comment (number 3) (value "Pending quality assurance testing"))

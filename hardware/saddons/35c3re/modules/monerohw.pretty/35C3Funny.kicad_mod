@@ -1,4 +1,4 @@
-(module Monero_HW:35C3Funny (layer F.Cu)
+(module ByteRub_HW:35C3Funny (layer F.Cu)
   (at 0 0)
  (fp_text reference "LOGO*" (at 0 0) (layer F.SilkS) hide
   (effects (font (thickness 0.3)))

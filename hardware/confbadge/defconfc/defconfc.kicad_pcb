@@ -4698,7 +4698,7 @@
   (gr_text "DefCon Village" (at 91.25 144) (layer B.SilkS)
     (effects (font (size 4 4) (thickness 1)) (justify mirror))
   )
-  (gr_text BCOS|MONERO (at 91 135) (layer F.SilkS)
+  (gr_text BCOS|BYTERUB (at 91 135) (layer F.SilkS)
     (effects (font (size 4.2 4.2) (thickness 1)))
   )
   (gr_text Radio (at 120.5 80 270) (layer F.SilkS)

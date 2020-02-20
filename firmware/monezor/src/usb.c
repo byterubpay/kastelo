@@ -38,10 +38,10 @@
 
 
 #define USB_STRINGS \
-	X(MANUFACTURER, "XMR_hw_wallet") \
+	X(MANUFACTURER, "BTR_hw_wallet") \
 	X(PRODUCT, "Monezor") \
 	X(SERIAL_NUMBER, "0101010101") \
-	X(INTERFACE_MAIN,  "XMR_HW") 
+	X(INTERFACE_MAIN,  "BTR_HW") 
 
 #define X(name, value) USB_STRING_##name,
 enum {
